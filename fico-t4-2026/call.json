@@ -1,0 +1,2714 @@
+{
+ "title": "FICO — résultats du T4 2026",
+ "date": "2026-11-04",
+ "duration": 4179.7,
+ "turns": [
+  {
+   "section": "presentation",
+   "speakerEn": "Operator",
+   "en": [
+    "Thank you for standing by, and welcome to FICO's Fourth Quarter 2026 Earnings Conference Call. [Operator Instructions]",
+    "I would now like to hand the call over to Dave Singleton, Head of IR. Please go ahead."
+   ],
+   "speaker": "Opératrice",
+   "role": "",
+   "fr": [
+    {
+     "text": "Merci de votre patience, et bienvenue à la conférence téléphonique de FICO sur les résultats du quatrième trimestre 2026. [Instructions de l'opératrice]",
+     "start": 0.0
+    },
+    {
+     "text": "Je vais maintenant passer la parole à Dave Singleton, responsable des relations investisseurs. Je vous en prie.",
+     "start": 9.46
+    }
+   ],
+   "enStart": [
+    0.99,
+    26.65
+   ]
+  },
+  {
+   "section": "presentation",
+   "speakerEn": "Dave Singleton",
+   "en": [
+    "Good afternoon, and thank you for attending FICO's Fourth Quarter Earnings Call. I'm Dave Singleton, Vice President of Investor Relations, and I'm joined today by our CEO, Will Lansing; and our CFO, Steve Weber.",
+    "Today, we issued a press release that describes financial results compared to the prior year. On this call, management will also discuss results in comparison with the prior quarter to facilitate an understanding of the run rate of the business. Certain statements made in this presentation are forward-looking under the Private Securities Litigation Reform Act of 1995. Those statements involve many risks and uncertainties that could cause actual results to differ materially. Information concerning these risks and uncertainties is contained in the company's filings with the SEC, particularly in the risk factors and forward-looking statements portions of such filings. Copies are available from the SEC, from FICO's website or from our Investor Relations team.",
+    "This call will also include statements regarding certain non-GAAP financial measures. Please refer to the company's earnings release and Reg G schedule issued today for a reconciliation of these non-GAAP financial measures to the most comparable GAAP measure. The earnings release and Regulation G schedule are available on the Investor Relations page of the company's website at fico.com or on the SEC's website at sec.gov. A replay of this webcast will be available through November 4, 2027. Our quarterly investor presentation is available on the Investor Relations section of our website, and we will refer to this presentation during today's earnings announcement.",
+    "I will now turn the call over to our CEO, Will Lansing."
+   ],
+   "roleEn": "Vice President of Investor Relations",
+   "speaker": "Dave Singleton",
+   "role": "relations investisseurs",
+   "fr": [
+    {
+     "text": "Bonjour, et merci de participer à la conférence de FICO sur les résultats du quatrième trimestre. Je suis Dave Singleton, vice-président des relations investisseurs, et je suis accompagné aujourd'hui de notre CEO, Will Lansing, et de notre CFO, Steve Weber.",
+     "start": 19.78
+    },
+    {
+     "text": "Aujourd'hui, nous avons publié un communiqué de presse qui présente les résultats financiers par rapport à l'année précédente. Au cours de cette conférence, la direction commentera aussi les résultats par rapport au trimestre précédent, afin de faciliter la compréhension du run rate de l'activité. Certaines déclarations faites dans cette présentation sont des déclarations prospectives au sens du Private Securities Litigation Reform Act de 1995. Ces déclarations comportent de nombreux risques et incertitudes qui pourraient faire que les résultats réels diffèrent sensiblement. Les informations sur ces risques et incertitudes figurent dans les documents déposés par la société auprès de la SEC, en particulier dans les parties de ces documents consacrées aux facteurs de risque et aux déclarations prospectives. Des copies sont disponibles auprès de la SEC, sur le site internet de FICO ou auprès de notre équipe des relations investisseurs.",
+     "start": 37.55
+    },
+    {
+     "text": "Cette conférence comprendra aussi des déclarations portant sur certains indicateurs financiers non-GAAP. Veuillez vous reporter au communiqué de résultats de la société et au tableau Reg G publiés aujourd'hui pour un rapprochement de ces indicateurs non-GAAP avec l'indicateur GAAP le plus comparable. Le communiqué de résultats et le tableau Regulation G sont disponibles sur la page des relations investisseurs du site internet de la société, fico.com, ou sur le site internet de la SEC, sec.gov. Une rediffusion de ce webcast sera disponible jusqu'au 4 novembre 2027. Notre présentation trimestrielle aux investisseurs est disponible dans la rubrique relations investisseurs de notre site internet, et nous ferons référence à cette présentation pendant l'annonce des résultats d'aujourd'hui.",
+     "start": 97.65
+    },
+    {
+     "text": "Je passe maintenant la parole à notre CEO, Will Lansing.",
+     "start": 151.92
+    }
+   ],
+   "enStart": [
+    35.19,
+    47.21,
+    89.43,
+    129.29
+   ]
+  },
+  {
+   "section": "presentation",
+   "speakerEn": "William Lansing",
+   "en": [
+    "Thanks, Dave, and thank you, everyone, for joining us for our fourth quarter earnings call. With another strong quarter, we closed fiscal 2026 as the most successful financial year in FICO's history.",
+    "We reported Q4 revenues of $657 million, up 27% over last year, as you can see on Page 5 of our investor presentation. For the full fiscal year, we delivered revenues of $2.535 billion, up 27% versus the prior year.",
+    "For the quarter, we reported GAAP net income of $175 million, up 13% and GAAP earnings of $8.12 per share, up 26% from the prior year. GAAP net income included three significant items, which Steve will discuss later, that had a combined net charge of $44 million pretax, $33 million after tax. Excluding these items only, adjusted net income would have been $208 million, up 27%, and adjusted earnings per share would have been $9.64, up 43% on a comparable basis to the prior year. These items are excluded from our non-GAAP results, along with other adjustments consistent with prior periods. With all these adjustments for the quarter, our non-GAAP net income was $239 million, up 28%, and non-GAAP earnings per share were $11.10, up 43% from the prior year.",
+    "For the fiscal year, GAAP net income was $835 million, up 28% from fiscal 2025, and GAAP earnings per share were $36.32, up 37% over the same period. For the fiscal year, non-GAAP net income was $988 million, up 35% from fiscal 2025, and non-GAAP earnings per share were $42.99, up 44% over the same period.",
+    "We delivered free cash flow of $284 million in our fourth quarter. For the full fiscal year, we delivered $1.034 billion in free cash flow, an increase of 40% over fiscal 2025.",
+    "In fiscal 2026, we repurchased a record $3.028 billion of stock or 2.514 million shares at an average price of $1,204 per share. This represents about 10% of shares outstanding from the end of fiscal 2025.",
+    "Now in Q4, we paused repurchases and directed free cash flow to repaying the term loan that funded the Q3 accelerated share repurchase, bringing leverage to 3.29x net debt to EBITDA. Going forward, our philosophy has not changed. We continue to view share repurchases as an attractive use of cash.",
+    "At the segment level, shown on Page 6, Scores revenues in our fourth quarter were $414 million, up 33% versus the prior year. While B2B Scores were the key driver of growth, we also experienced continued growth in B2C Scores. For the full year, we delivered $1.652 billion in Scores revenues, up 41% from the prior year.",
+    "In our Software segment, we delivered $243 million in Q4 revenues, up 19% year-over-year. Results included 84% platform revenue growth and a 12% decline in non-platform revenue. For the full year, we delivered $883 million in Software segment revenues, up 7% from the prior year. Steve will provide additional segment level details later.",
+    "This year, our Scores business advanced our strategic priorities in a challenging environment, and I'm really proud of our accomplishments. We laid the groundwork for broader distribution by signing direct license agreements with reseller partners representing about 73% of mortgage reseller volume, including the current quarter agreement with Informative Research.",
+    "We also brought new IP into the market with next-generation UltraFICO Score, and we grew adoption of both our FICO Score Mortgage Simulator and FICO Score 10T. This quarter, the FHA announced FICO Score 10T, which is the most predictive modern credit score, will be available for approved lenders beginning Jan 1, 2027. The availability of FICO Score 10T will enable lenders to make more accurate lending decisions, while helping consumers gain access to more favorable mortgage terms and sustainable homeownership. FICO Score 10T outperforms competing models by more than 10% on FHA first-time home buyer mortgages. A clear predictive advantage in a segment where accurate risk assessment is paramount.",
+    "Our FICO Score 10T Adopter Program, which you can see on Page 9, has grown to 84 lenders, spanning both conforming and non-conforming mortgage markets. The program now represents over 60% of the volume generated by the top 50 mortgage originators for originated FHA units, over 50% for originated first-lien units purchased by the GSEs. Based on 2025 HMDA data, participating lenders account for $684 billion in eligible annual originations and more than $2.65 trillion in eligible annual servicing.",
+    "In October, we launched the FICO Preferred Program distributed by our participating tri-merge resellers. Enrolled lenders and brokers that commit to the program will have no 2027 wholesale mortgage price increase for the FICO score and will receive a bundled classic FICO Score and FICO Score 10T. With this program, we're ensuring lenders have access to the trusted and predictive tools they need to assess risk with confidence. Better risk decisions strengthen the mortgage market and help lenders responsibly expand access to credit, helping more Americans achieve the dream of homeownership.",
+    "To date, as shown on Page 11, we've demonstrated demand for this program by several announcements. We expect resellers to continue signing participants. And although we don't anticipate announcing all participants, we do expect to provide periodic updates on program uptake and demand.",
+    "We've also made significant strides with our software innovation. Early in October, we achieved two key milestones in our software business: first, general availability of the next-generation FICO Platform and the launch of Enterprise Fraud Solution, which we call EFS; and second, FICO Focused Sequence Model together on the FICO Platform.",
+    "With the next-generation FICO Platform, customers gained three connected capabilities on a single platform: First, the platform provides an always-on real-time view of their own customers. Second, the platform gives business teams greater agency, while reducing dependence on traditional IT release cycles. Third, the platform provides a closed feedback loop giving customers the evidence needed to improve decision quality over time rather than relying on systems to flag issues and hand them off.",
+    "The launch of Enterprise Fraud Solution and FICO Focused Sequence Model together on FICO Platform gives financial institutions connected and comprehensive fraud protection across the entire customer life cycle. The solution is designed to protect financial institutions globally from fraud losses, customer impact and regulatory liability. This is critical at a time where losses are escalating from scams and authorized push payment fraud, money mules, first-party fraud and card and real-time payments fraud.",
+    "Our solution is also designed to deal with the threats and challenges faced by agentic commerce and agentic attacks and threats. It allows banks to integrate data and orchestrate decisions in real time more precisely than ever before. It unifies transaction behavior across every channel into one real-time profile that follows customers throughout their journey. The result is proactive protection, fewer false positives and less friction for genuine customers.",
+    "I'm proud of these accomplishments and industry analysts recognize them as well. In September, FICO was named Leader in the IDC MarketScape: Worldwide Decision Intelligence Platforms 2026 Vendor Assessment. FICO was recognized for its strengths in dynamic profiling, an expanding ecosystem and marketplace, and agentic policy authoring.",
+    "In fiscal '27, we plan to advance our direct and indirect distribution and invest to capture market opportunities emerging from these innovations, both in our software and scoring business.",
+    "I'll now hand it over to Steve to provide further financial details."
+   ],
+   "roleEn": "President, CEO & Director",
+   "speaker": "William Lansing",
+   "role": "CEO",
+   "fr": [
+    {
+     "text": "Merci, Dave, et merci à tous de nous rejoindre pour notre conférence sur les résultats du quatrième trimestre. Avec un nouveau trimestre solide, nous avons clôturé l'exercice 2026, qui est l'exercice financier le plus réussi de l'histoire de FICO.",
+     "start": 157.73
+    },
+    {
+     "text": "Nous avons publié un chiffre d'affaires de 657 millions de dollars au quatrième trimestre, en hausse de 27 % par rapport à l'an dernier, comme vous pouvez le voir à la page 5 de notre présentation aux investisseurs. Sur l'ensemble de l'exercice, nous avons réalisé un chiffre d'affaires de 2,535 milliards de dollars, en hausse de 27 % par rapport à l'exercice précédent.",
+     "start": 173.29
+    },
+    {
+     "text": "Pour le trimestre, nous avons publié un résultat net GAAP de 175 millions de dollars, en hausse de 13 %, et un bénéfice GAAP de 8,12 dollars par action, en hausse de 26 % par rapport à l'an dernier. Le résultat net GAAP comprenait trois éléments importants, que Steve présentera plus loin, qui représentaient ensemble une charge nette de 44 millions de dollars avant impôt, 33 millions de dollars après impôt. En excluant uniquement ces éléments, le résultat net ajusté aurait été de 208 millions de dollars, en hausse de 27 %, et le bénéfice ajusté par action aurait été de 9,64 dollars, en hausse de 43 % sur une base comparable à l'an dernier. Ces éléments sont exclus de nos résultats non-GAAP, avec les autres ajustements habituels des périodes précédentes. Avec tous ces ajustements pour le trimestre, notre résultat net non-GAAP s'est élevé à 239 millions de dollars, en hausse de 28 %, et notre bénéfice non-GAAP par action à 11,10 dollars, en hausse de 43 % par rapport à l'an dernier.",
+     "start": 203.89
+    },
+    {
+     "text": "Sur l'exercice, le résultat net GAAP s'est élevé à 835 millions de dollars, en hausse de 28 % par rapport à l'exercice 2025, et le bénéfice GAAP par action à 36,32 dollars, en hausse de 37 % sur la même période. Sur l'exercice, le résultat net non-GAAP s'est élevé à 988 millions de dollars, en hausse de 35 % par rapport à l'exercice 2025, et le bénéfice non-GAAP par action à 42,99 dollars, en hausse de 44 % sur la même période.",
+     "start": 275.95
+    },
+    {
+     "text": "Nous avons dégagé un free cash flow de 284 millions de dollars au quatrième trimestre. Sur l'ensemble de l'exercice, nous avons dégagé 1,034 milliard de dollars de free cash flow, une hausse de 40 % par rapport à l'exercice 2025.",
+     "start": 312.1
+    },
+    {
+     "text": "Au cours de l'exercice 2026, nous avons racheté un montant record de 3,028 milliards de dollars d'actions, soit 2,514 millions d'actions, à un prix moyen de 1 204 dollars par action. Cela représente environ 10 % des actions en circulation à la fin de l'exercice 2025.",
+     "start": 330.46
+    },
+    {
+     "text": "Au quatrième trimestre, nous avons suspendu les rachats et affecté le free cash flow au remboursement du term loan qui avait financé le rachat d'actions accéléré du troisième trimestre, ce qui ramène le levier à 3,29 fois la dette nette sur EBITDA. Pour la suite, notre philosophie n'a pas changé. Nous continuons de considérer les rachats d'actions comme une utilisation attractive de la trésorerie.",
+     "start": 354.33
+    },
+    {
+     "text": "Au niveau des segments, présentés à la page 6, le chiffre d'affaires Scores de notre quatrième trimestre s'est élevé à 414 millions de dollars, en hausse de 33 % par rapport à l'an dernier. Si les Scores B2B ont été le principal moteur de croissance, nous avons aussi connu une croissance continue des Scores B2C. Sur l'ensemble de l'exercice, nous avons réalisé 1,652 milliard de dollars de chiffre d'affaires Scores, en hausse de 41 % par rapport à l'exercice précédent.",
+     "start": 381.48
+    },
+    {
+     "text": "Dans notre segment Software, nous avons réalisé 243 millions de dollars de chiffre d'affaires au quatrième trimestre, en hausse de 19 % sur un an. Les résultats comprennent une croissance de 84 % du chiffre d'affaires platform et une baisse de 12 % du chiffre d'affaires non-platform. Sur l'ensemble de l'exercice, nous avons réalisé 883 millions de dollars de chiffre d'affaires dans le segment Software, en hausse de 7 % par rapport à l'exercice précédent. Steve donnera plus de détails par segment plus loin.",
+     "start": 416.47
+    },
+    {
+     "text": "Cette année, notre activité Scores a fait progresser nos priorités stratégiques dans un environnement difficile, et je suis vraiment fier de ce que nous avons accompli. Nous avons posé les bases d'une distribution plus large en signant des accords de licence directe avec des revendeurs partenaires représentant environ 73 % du volume des revendeurs du marché immobilier, y compris l'accord de ce trimestre avec Informative Research.",
+     "start": 452.89
+    },
+    {
+     "text": "Nous avons aussi mis sur le marché une nouvelle propriété intellectuelle avec la nouvelle génération de l'UltraFICO Score, et nous avons accru l'adoption de notre FICO Score Mortgage Simulator et du FICO Score 10T. Ce trimestre, la FHA a annoncé que le FICO Score 10T, qui est le score de crédit moderne le plus prédictif, sera disponible pour les prêteurs agréés à partir du 1er janvier 2027. La disponibilité du FICO Score 10T permettra aux prêteurs de prendre des décisions de crédit plus précises, tout en aidant les consommateurs à accéder à des conditions de prêt immobilier plus favorables et à une accession à la propriété durable. Le FICO Score 10T surpasse les modèles concurrents de plus de 10 % sur les prêts immobiliers FHA des primo-accédants. Un avantage prédictif net, dans un segment où l'évaluation précise du risque est primordiale.",
+     "start": 479.39
+    },
+    {
+     "text": "Notre programme d'adoption du FICO Score 10T, que vous pouvez voir à la page 9, compte désormais 84 prêteurs, sur les marchés immobiliers conforming comme non-conforming. Le programme représente désormais plus de 60 % du volume généré par les 50 premiers émetteurs de prêts immobiliers pour les prêts FHA émis, et plus de 50 % pour les prêts de premier rang émis et achetés par les GSEs. D'après les données HMDA 2025, les prêteurs participants représentent 684 milliards de dollars d'originations annuelles éligibles et plus de 2 650 milliards de dollars de servicing annuel éligible.",
+     "start": 535.99
+    },
+    {
+     "text": "En octobre, nous avons lancé le FICO Preferred Program, distribué par nos tri-merge resellers participants. Les prêteurs et courtiers inscrits qui s'engagent dans le programme n'auront pas de hausse de prix de gros 2027 du FICO Score pour l'immobilier, et recevront un FICO Score classique et un FICO Score 10T groupés. Avec ce programme, nous garantissons aux prêteurs l'accès aux outils fiables et prédictifs dont ils ont besoin pour évaluer le risque en toute confiance. De meilleures décisions de risque renforcent le marché immobilier et aident les prêteurs à élargir l'accès au crédit de manière responsable, ce qui aide davantage d'Américains à réaliser le rêve de devenir propriétaires.",
+     "start": 577.66
+    },
+    {
+     "text": "À ce jour, comme le montre la page 11, nous avons démontré la demande pour ce programme par plusieurs annonces. Nous nous attendons à ce que les revendeurs continuent d'inscrire des participants. Et même si nous ne prévoyons pas d'annoncer tous les participants, nous comptons bien donner des points d'étape réguliers sur l'adoption du programme et la demande.",
+     "start": 622.93
+    },
+    {
+     "text": "Nous avons aussi fait des progrès importants avec l'innovation dans le logiciel. Début octobre, nous avons franchi deux étapes clés dans notre activité logicielle : premièrement, la disponibilité générale de la nouvelle génération de la FICO Platform et le lancement d'Enterprise Fraud Solution, que nous appelons EFS ; et deuxièmement, le FICO Focused Sequence Model, ensemble, sur la FICO Platform.",
+     "start": 643.98
+    },
+    {
+     "text": "Avec la nouvelle génération de la FICO Platform, les clients ont obtenu trois capacités connectées sur une seule plateforme. Premièrement, la plateforme fournit une vue permanente et en temps réel de leurs propres clients. Deuxièmement, la plateforme donne aux équipes métier une plus grande autonomie, tout en réduisant la dépendance aux cycles de mise en production informatique traditionnels. Troisièmement, la plateforme fournit une boucle de rétroaction fermée qui donne aux clients les preuves nécessaires pour améliorer la qualité de leurs décisions au fil du temps, plutôt que de compter sur des systèmes qui signalent les problèmes et les transmettent à d'autres.",
+     "start": 669.04
+    },
+    {
+     "text": "Le lancement d'Enterprise Fraud Solution et du FICO Focused Sequence Model, ensemble, sur la FICO Platform donne aux institutions financières une protection contre la fraude connectée et complète sur tout le cycle de vie du client. La solution est conçue pour protéger les institutions financières, dans le monde entier, contre les pertes liées à la fraude, l'impact sur les clients et la responsabilité réglementaire. C'est essentiel à un moment où les pertes s'envolent du fait des arnaques et de l'authorized push payment fraud, des money mules, de la first-party fraud, et de la fraude à la carte et aux paiements en temps réel.",
+     "start": 707.71
+    },
+    {
+     "text": "Notre solution est aussi conçue pour faire face aux menaces et aux défis du commerce agentic, et des attaques et menaces agentic. Elle permet aux banques d'intégrer les données et d'orchestrer les décisions en temps réel, avec plus de précision que jamais. Elle réunit le comportement transactionnel de tous les canaux dans un profil unique en temps réel, qui suit les clients tout au long de leur parcours. Le résultat : une protection proactive, moins de faux positifs et moins de friction pour les vrais clients.",
+     "start": 746.67
+    },
+    {
+     "text": "Je suis fier de ces réalisations, et les analystes du secteur les reconnaissent aussi. En septembre, FICO a été désigné Leader dans l'IDC MarketScape : Worldwide Decision Intelligence Platforms 2026 Vendor Assessment. FICO a été reconnu pour ses points forts en profilage dynamique, pour son écosystème et sa place de marché en expansion, et pour la rédaction de règles par agents d'IA (agentic policy authoring).",
+     "start": 776.77
+    },
+    {
+     "text": "Au cours de l'exercice 2027, nous prévoyons de faire progresser notre distribution directe et indirecte et d'investir pour saisir les opportunités de marché qui naissent de ces innovations, à la fois dans notre activité logicielle et dans notre activité de scores.",
+     "start": 806.92
+    },
+    {
+     "text": "Je passe maintenant la parole à Steve, qui va donner plus de détails financiers.",
+     "start": 827.28
+    }
+   ],
+   "enStart": [
+    133.13,
+    146.19,
+    166.81,
+    228.35,
+    260.55,
+    275.81,
+    293.91,
+    313.93,
+    339.71,
+    366.55,
+    386.72,
+    431.46,
+    467.6,
+    502.7,
+    519.5,
+    542.5,
+    570.24,
+    600.06,
+    625.16,
+    645.5,
+    656.12
+   ]
+  },
+  {
+   "section": "presentation",
+   "speakerEn": "Steven Weber",
+   "en": [
+    "Thanks, Will, and good afternoon, everyone. As Will mentioned, our software -- our Scores segment revenues for the quarter were $414 million, up 33% from the prior year. As shown on Page 17 of our presentation, B2B revenues were up 39%, primarily attributable to higher mortgage origination scores unit price, partially offset by a decline in mortgage originations volumes. Our B2C revenues were up 3% versus the prior year, primarily due to growth in our indirect channel.",
+    "Turning to B2B origination Scores revenues. Our fourth quarter mortgage originations revenue was up 72%. Volumes in Q4 declined by high single digits versus the prior year, driven by elevated interest rates. In the quarter, we saw no meaningful loss of volume to competition. In addition, we observed a mix shift from first-lien mortgages to HELOC as Q4 HELOC volume growth accelerated from Q3 levels. Because the average price for HELOC is lower than first-lien mortgages, our total mortgage origination scores average price declined sequentially from Q3 to Q4.",
+    "Refer to Page 18 to see a comparison to the prior quarter mortgage originations revenue growth. Mortgage originations revenue accounted for 67% of B2B revenues and 58% of total Scores revenues in Q4. Auto originations revenue was up 11% and credit card, personal loan and other originations revenue was up 12% versus the prior year. For your reference, Page 19 of our presentation provides quarterly trending for Scores segment metrics.",
+    "Turning to our Software segment. Our software ACV bookings for the quarter were $45 million, as shown on Page 20 of our presentation. On a trailing 12-month basis, ACV bookings reached $140 million this quarter, an increase of 36% from the same period last year. This is the strongest annual performance in FICO history, and we continue to see strength in our sales pipeline.",
+    "Our total software ARR, shown on Page 21, was $851 million, a 14% increase over the prior year. Platform ARR grew 72% versus the prior year to $453 million and now represents 53% of our total Q4 '26 ARR, while non-platform declined 18% to $398 million this quarter.",
+    "Excluding migrations, platform ARR growth was in the mid-40% range, reflecting strong execution and new customer wins as well as expanded use cases and volumes from existing customers. In our non-platform business, ARR declined year-over-year, driven mostly by migrations and to a lesser extent, end-of-life products. Our dollar-based net retention rate in the quarter was 112%. Platform NRR was 156%, while our non-platform NRR was 82%. Platform NRR was driven by a combination of new use cases, increased usage of existing cases and some migrations.",
+    "Fourth quarter Software revenues, detailed on Page 22, were $243 million, up 19% versus the prior year. Within the segment, our SaaS revenues grew 29%, driven by continued strength in FICO Platform with a smaller contribution from CCS. On-premises revenue grew 13%, driven by higher point-in-time revenues compared to the prior year quarter. Platform revenues grew 84%, driven by success in our land and expand strategy and by migrations. Excluding migrations, platform revenues grew in the low 50% range. Non-platform revenues declined 12%, driven mainly by migrations, offset partially by higher point-in-time revenue. As a reminder, platform and non-platform revenues exclude professional services revenues.",
+    "From a regional perspective, 89% of total company revenues this quarter were derived from our Americas region, which is a combination of our North America and Latin American regions. Our EMEA region generated 7% of revenues and the Asia Pacific region delivered 4%. Operating expense was $390 million, up 25% from the third quarter. That includes a $65 million accrual for the proposed settlement of the antitrust class action lawsuit related to our Scores business and a $27 million restructuring charge for our workforce reduction. Both are excluded from the non-GAAP results and are shown on Pages 23 and 24.",
+    "Operating expense, excluding these items, was $298 million for the quarter, down 4% sequentially on lower personnel costs. Excluding these items for the full year, expense grew 12% to $1.177 billion. Through strategic partnerships with third parties and AI-driven efficiencies within our FICO Platform, we anticipate a significant decline in professional services revenue for FY '27. And as such, professional services roles were impacted as part of a recent restructuring.",
+    "In FY '27, we plan to continue to shape our workforce around the skills our strategy requires, hiring for the capabilities we need and investing in AI tools that make our teams more productive. Other income and expense for Q4 was a net expense of $29 million. This included an interest expense of $78 million, up from the prior quarter reflecting a full quarter of interest on the June 2026 term loan that funded our accelerated share repurchase. It also included a $48 million non-operating gain on the sale of a minority equity investment, which is excluded from our non-GAAP results.",
+    "Our non-GAAP operating margin, as shown on Page 25, was 61% for the quarter compared with 54% in the same quarter last year. Our full year non-GAAP operating margin was 61% compared to 55% in the prior year, an improvement of approximately 600 basis points.",
+    "The effective tax rate for the quarter was 26.3%. Our full year net effective tax rate was 24.1%, while the operating tax rate was 26%. As a reminder, the key differences between the operating tax rate and net effective tax rate was a $17 million excess tax benefit. In FY '27, we expect a full year operating tax rate of 26%.",
+    "At the end of the quarter, we had $269 million in cash and marketable investments. Our total debt at quarter end was $5.26 billion with a weighted average interest rate of 5.64%. As of September 30, 2026, 64% of our debt was held in senior notes, while 36% of our debt was held in term loans or a balance on a revolving line of credit, both of which are repayable at any time.",
+    "We repurchased $3.028 billion of stock in FY '26, which represented approximately 10% of shares outstanding from the end of fiscal '25. And as Will highlighted, although we continue to pay down debt, we continue to view share repurchases as an attractive use of cash.",
+    "And with that, I'll turn it back to Will for comments."
+   ],
+   "roleEn": "Executive VP & CFO",
+   "speaker": "Steven Weber",
+   "role": "CFO",
+   "fr": [
+    {
+     "text": "Merci, Will, et bonjour à tous. Comme Will l'a mentionné, le chiffre d'affaires de notre logiciel… de notre segment Scores pour le trimestre s'est élevé à 414 millions de dollars, en hausse de 33 % par rapport à l'an dernier. Comme le montre la page 17 de notre présentation, le chiffre d'affaires B2B a augmenté de 39 %, principalement grâce à la hausse du prix unitaire des scores d'origination de prêts immobiliers, en partie compensée par une baisse des volumes d'originations de prêts immobiliers. Notre chiffre d'affaires B2C a augmenté de 3 % par rapport à l'an dernier, principalement grâce à la croissance de notre canal indirect.",
+     "start": 833.33
+    },
+    {
+     "text": "Passons au chiffre d'affaires des Scores d'origination B2B. Le chiffre d'affaires des originations de prêts immobiliers de notre quatrième trimestre a augmenté de 72 %. Les volumes du quatrième trimestre ont baissé de « high single digits », c'est-à-dire d'un pourcentage à un chiffre élevé, entre 6 et 9 % environ, par rapport à l'an dernier, en raison de taux d'intérêt élevés. Au cours du trimestre, nous n'avons constaté aucune perte de volume significative au profit de la concurrence. Par ailleurs, nous avons observé un glissement du mix des prêts immobiliers de premier rang vers les HELOC, la croissance des volumes de HELOC au quatrième trimestre s'étant accélérée par rapport au troisième trimestre. Comme le prix moyen des HELOC est inférieur à celui des prêts de premier rang, le prix moyen total de nos scores d'origination de prêts immobiliers a baissé d'un trimestre à l'autre, du troisième au quatrième trimestre.",
+     "start": 877.79
+    },
+    {
+     "text": "Reportez-vous à la page 18 pour une comparaison avec la croissance du chiffre d'affaires des originations de prêts immobiliers du trimestre précédent. Le chiffre d'affaires des originations de prêts immobiliers a représenté 67 % du chiffre d'affaires B2B et 58 % du chiffre d'affaires total Scores au quatrième trimestre. Le chiffre d'affaires des originations de prêts auto a augmenté de 11 %, et celui des originations de cartes de crédit, prêts personnels et autres a augmenté de 12 % par rapport à l'an dernier. Pour information, la page 19 de notre présentation donne l'évolution trimestrielle des indicateurs du segment Scores.",
+     "start": 937.94
+    },
+    {
+     "text": "Passons à notre segment Software. Nos ACV bookings logiciels du trimestre se sont élevés à 45 millions de dollars, comme le montre la page 20 de notre présentation. Sur 12 mois glissants, les ACV bookings ont atteint 140 millions de dollars ce trimestre, une hausse de 36 % par rapport à la même période l'an dernier. C'est la meilleure performance annuelle de l'histoire de FICO, et nous continuons de constater la solidité de notre pipeline commercial.",
+     "start": 979.85
+    },
+    {
+     "text": "Notre ARR logiciel total, présenté à la page 21, s'est élevé à 851 millions de dollars, une hausse de 14 % par rapport à l'an dernier. L'ARR platform a augmenté de 72 % par rapport à l'an dernier, à 453 millions de dollars, et représente désormais 53 % de notre ARR total du quatrième trimestre 2026, tandis que le non-platform a baissé de 18 %, à 398 millions de dollars, ce trimestre.",
+     "start": 1010.16
+    },
+    {
+     "text": "Hors migrations, la croissance de l'ARR platform s'est située autour de 45 %, ce qui reflète une forte exécution et de nouveaux clients gagnés, ainsi que l'élargissement des cas d'usage et des volumes chez les clients existants. Dans notre activité non-platform, l'ARR a baissé sur un an, principalement à cause des migrations et, dans une moindre mesure, des produits en fin de vie. Notre taux de rétention nette en dollars du trimestre était de 112 %. Le NRR platform était de 156 %, tandis que notre NRR non-platform était de 82 %. Le NRR platform a été porté par une combinaison de nouveaux cas d'usage, d'une utilisation accrue des cas existants et de quelques migrations.",
+     "start": 1045.16
+    },
+    {
+     "text": "Le chiffre d'affaires Software du quatrième trimestre, détaillé à la page 22, s'est élevé à 243 millions de dollars, en hausse de 19 % par rapport à l'an dernier. Au sein du segment, notre chiffre d'affaires SaaS a augmenté de 29 %, porté par la solidité continue de la FICO Platform, avec une contribution plus faible de CCS. Le chiffre d'affaires on-premises a augmenté de 13 %, porté par un point-in-time revenue plus élevé qu'au même trimestre de l'an dernier. Le chiffre d'affaires platform a augmenté de 84 %, porté par le succès de notre stratégie land and expand et par les migrations. Hors migrations, le chiffre d'affaires platform a augmenté d'un peu plus de 50 %. Le chiffre d'affaires non-platform a baissé de 12 %, principalement à cause des migrations, en partie compensées par un point-in-time revenue plus élevé. Pour rappel, les chiffres d'affaires platform et non-platform excluent le chiffre d'affaires des services professionnels.",
+     "start": 1092.71
+    },
+    {
+     "text": "D'un point de vue régional, 89 % du chiffre d'affaires total de la société ce trimestre provenait de notre région Amériques, qui regroupe nos régions Amérique du Nord et Amérique latine. Notre région EMEA a généré 7 % du chiffre d'affaires, et la région Asie-Pacifique 4 %. Les charges d'exploitation se sont élevées à 390 millions de dollars, en hausse de 25 % par rapport au troisième trimestre. Cela comprend une provision de 65 millions de dollars pour le projet de règlement de l'action collective antitrust liée à notre activité Scores, et une charge de restructuration de 27 millions de dollars pour notre réduction d'effectifs. Ces deux éléments sont exclus des résultats non-GAAP et sont présentés aux pages 23 et 24.",
+     "start": 1159.32
+    },
+    {
+     "text": "Hors ces éléments, les charges d'exploitation se sont élevées à 298 millions de dollars pour le trimestre, en baisse de 4 % d'un trimestre à l'autre grâce à des frais de personnel plus faibles. Hors ces éléments, sur l'ensemble de l'exercice, les charges ont augmenté de 12 %, à 1,177 milliard de dollars. Grâce à des partenariats stratégiques avec des tiers et à des gains d'efficacité permis par l'IA au sein de notre FICO Platform, nous anticipons une baisse significative du chiffre d'affaires des services professionnels pour l'exercice 2027. Et c'est pourquoi des postes de services professionnels ont été touchés dans le cadre d'une restructuration récente.",
+     "start": 1209.27
+    },
+    {
+     "text": "Au cours de l'exercice 2027, nous prévoyons de continuer à façonner nos effectifs autour des compétences dont notre stratégie a besoin, en recrutant pour les capacités qu'il nous faut et en investissant dans des outils d'IA qui rendent nos équipes plus productives. Les autres produits et charges du quatrième trimestre représentaient une charge nette de 29 millions de dollars. Cela comprenait une charge d'intérêts de 78 millions de dollars, en hausse par rapport au trimestre précédent, ce qui reflète un trimestre complet d'intérêts sur le term loan de juin 2026 qui a financé notre rachat d'actions accéléré. Cela comprenait aussi un gain hors exploitation de 48 millions de dollars sur la cession d'une participation minoritaire, qui est exclu de nos résultats non-GAAP.",
+     "start": 1255.47
+    },
+    {
+     "text": "Notre marge d'exploitation non-GAAP, présentée à la page 25, était de 61 % pour le trimestre, contre 54 % au même trimestre l'an dernier. Notre marge d'exploitation non-GAAP sur l'ensemble de l'exercice était de 61 %, contre 55 % l'exercice précédent, une amélioration d'environ 600 points de base.",
+     "start": 1308.33
+    },
+    {
+     "text": "Le taux d'imposition effectif du trimestre était de 26,3 %. Notre taux d'imposition effectif net sur l'ensemble de l'exercice était de 24,1 %, tandis que le taux d'imposition opérationnel était de 26 %. Pour rappel, la principale différence entre le taux d'imposition opérationnel et le taux d'imposition effectif net était un avantage fiscal excédentaire de 17 millions de dollars. Pour l'exercice 2027, nous prévoyons un taux d'imposition opérationnel annuel de 26 %.",
+     "start": 1334.45
+    },
+    {
+     "text": "À la fin du trimestre, nous disposions de 269 millions de dollars de trésorerie et de placements négociables. Notre dette totale à la fin du trimestre s'élevait à 5,26 milliards de dollars, avec un taux d'intérêt moyen pondéré de 5,64 %. Au 30 septembre 2026, 64 % de notre dette était constituée d'obligations senior, tandis que 36 % de notre dette était constituée de term loans ou d'un solde sur une ligne de crédit renouvelable, tous deux remboursables à tout moment.",
+     "start": 1370.16
+    },
+    {
+     "text": "Nous avons racheté 3,028 milliards de dollars d'actions au cours de l'exercice 2026, ce qui représentait environ 10 % des actions en circulation à la fin de l'exercice 2025. Et comme Will l'a souligné, même si nous continuons de rembourser la dette, nous continuons de considérer les rachats d'actions comme une utilisation attractive de la trésorerie.",
+     "start": 1409.27
+    },
+    {
+     "text": "Et sur ce, je rends la parole à Will pour ses commentaires.",
+     "start": 1435.38
+    }
+   ],
+   "enStart": [
+    660.66,
+    690.9,
+    726.82,
+    756.68,
+    779.4,
+    803.56,
+    841.12,
+    891.84,
+    931.62,
+    964.94,
+    1001.02,
+    1019.76,
+    1043.6,
+    1070.6,
+    1086.44
+   ]
+  },
+  {
+   "section": "presentation",
+   "speakerEn": "William Lansing",
+   "en": [
+    "Thanks, Steve. We are transitioning to custom mortgage originations pricing tailored to the individual needs of our customers. One bespoke pricing program, the FICO Preferred Program, has had several deals already announced, and we continue to work with others on programs that will cover calendar year 2027. At the same time, elevated interest rates and ongoing affordability challenges continue to weigh on the mortgage market, keeping loan originations below historical norms. We are in the middle of this pricing transition where programs and agreements are still being finalized, and the outcomes of mortgage market challenges are uncertain. Because of these factors, we are not providing fiscal year 2027 guidance at this time.",
+    "I recognize that this is not what you were expecting to hear from us today. And I want to emphasize that it does not reflect a change in our long-term confidence in our business. FICO closed fiscal 2026 as the most successful year in our history, and the foundation behind those results is durable. For more than 70 years, FICO has been the trusted backbone of high-stakes decision-making, and we expect to remain the industry standard in credit scoring and a leader in AI decisioning intelligence platforms for financial services. We feel positive about the long-term outlook for our business, and we remain focused on executing our strategy with discipline.",
+    "With that, I'll turn the call back to Dave, and we'll open up the Q&A session."
+   ],
+   "roleEn": "President, CEO & Director",
+   "speaker": "William Lansing",
+   "role": "CEO",
+   "fr": [
+    {
+     "text": "Merci, Steve. Nous passons à une tarification sur mesure des originations de prêts immobiliers, adaptée aux besoins individuels de nos clients. L'un de ces programmes de tarification sur mesure, le FICO Preferred Program, a déjà fait l'objet de plusieurs accords annoncés, et nous continuons de travailler avec d'autres sur des programmes qui couvriront l'année civile 2027. En même temps, les taux d'intérêt élevés et les difficultés persistantes d'accessibilité financière continuent de peser sur le marché immobilier, ce qui maintient les originations de prêts sous leurs niveaux historiques habituels. Nous sommes au milieu de cette transition tarifaire, où les programmes et les accords sont encore en cours de finalisation, et l'issue des difficultés du marché immobilier est incertaine. En raison de ces facteurs, nous ne donnons pas de guidance pour l'exercice 2027 pour le moment.",
+     "start": 1441.34
+    },
+    {
+     "text": "Je sais que ce n'est pas ce que vous vous attendiez à entendre de notre part aujourd'hui. Et je veux souligner que cela ne traduit aucun changement dans notre confiance à long terme dans notre activité. FICO a clôturé l'exercice 2026 avec la meilleure année de son histoire, et les fondations derrière ces résultats sont durables. Depuis plus de 70 ans, FICO est la colonne vertébrale de confiance des décisions à fort enjeu, et nous comptons rester la norme du secteur pour les scores de crédit, et un leader des plateformes d'intelligence décisionnelle par IA pour les services financiers. Nous sommes confiants dans les perspectives à long terme de notre activité, et nous restons concentrés sur l'exécution disciplinée de notre stratégie.",
+     "start": 1495.54
+    },
+    {
+     "text": "Sur ce, je rends la parole à Dave, et nous allons ouvrir la séance de questions-réponses.",
+     "start": 1542.15
+    }
+   ],
+   "enStart": [
+    1088.96,
+    1129.8,
+    1163.94
+   ]
+  },
+  {
+   "section": "presentation",
+   "speakerEn": "Dave Singleton",
+   "en": [
+    "Thanks, Will. This concludes our prepared remarks. We're now ready to take questions. Operator, you can please open the line."
+   ],
+   "roleEn": "Vice President of Investor Relations",
+   "speaker": "Dave Singleton",
+   "role": "relations investisseurs",
+   "fr": [
+    {
+     "text": "Merci, Will. Ceci conclut nos remarques préparées. Nous sommes maintenant prêts à répondre aux questions. Opératrice, vous pouvez ouvrir la ligne, s'il vous plaît.",
+     "start": 1548.75
+    }
+   ],
+   "enStart": [
+    1168.04
+   ]
+  },
+  {
+   "section": "qa",
+   "speakerEn": "Operator",
+   "en": [
+    "[Operator Instructions] Our first question comes from the line of Manav Patnaik of Barclays."
+   ],
+   "speaker": "Opératrice",
+   "role": "",
+   "fr": [
+    {
+     "text": "[Instructions de l'opératrice] Notre première question vient de Manav Patnaik, de Barclays.",
+     "start": 1560.61
+    }
+   ],
+   "enStart": [
+    1197.86
+   ]
+  },
+  {
+   "section": "qa",
+   "speakerEn": "Manav Patnaik",
+   "en": [
+    "Will, I was just hoping in terms of the custom pricing program you're referring to. I know you mentioned preferred a few times. I'm just wondering, looking into next year, how many different programs do you think you're going to have there? And if you can give us a little bit of color, and how we should think about that?"
+   ],
+   "roleEn": "Barclays Bank PLC, Research Division",
+   "speaker": "Manav Patnaik",
+   "role": "Barclays",
+   "fr": [
+    {
+     "text": "Will, j'espérais simplement en savoir plus sur le programme de tarification sur mesure dont vous parlez. Je sais que vous avez mentionné le Preferred à plusieurs reprises. Je me demande simplement, en regardant l'an prochain, combien de programmes différents vous pensez avoir ? Et si vous pouviez nous donner un peu de détails, et comment nous devrions y réfléchir ?",
+     "start": 1566.52
+    }
+   ],
+   "enStart": [
+    1210.44
+   ],
+   "topic": "Combien de programmes de prix sur mesure en 2027 ?"
+  },
+  {
+   "section": "qa",
+   "speakerEn": "William Lansing",
+   "en": [
+    "Well, there are a number of different programs, some of which we've announced and some of which we're still working on. And we will make additional announcements as appropriate. But there are multiple programs."
+   ],
+   "roleEn": "President, CEO & Director",
+   "speaker": "William Lansing",
+   "role": "CEO",
+   "fr": [
+    {
+     "text": "Eh bien, il existe un certain nombre de programmes différents, dont certains que nous avons annoncés et d'autres sur lesquels nous travaillons encore. Et nous ferons d'autres annonces le moment venu. Mais il y a plusieurs programmes.",
+     "start": 1592.17
+    }
+   ],
+   "enStart": [
+    1228.38
+   ]
+  },
+  {
+   "section": "qa",
+   "speakerEn": "Manav Patnaik",
+   "en": [
+    "Okay. Any just, I guess, broad color on how the -- like it sounds like preferred program is your preferred target, though?"
+   ],
+   "roleEn": "Barclays Bank PLC, Research Division",
+   "speaker": "Manav Patnaik",
+   "role": "Barclays",
+   "fr": [
+    {
+     "text": "D'accord. Simplement, je suppose, des indications générales sur la façon dont le… on dirait que le Preferred Program est quand même votre cible préférée ?",
+     "start": 1607.01
+    }
+   ],
+   "enStart": [
+    1242.72
+   ]
+  },
+  {
+   "section": "qa",
+   "speakerEn": "William Lansing",
+   "en": [
+    "Manav, I -- for some reason, the questions are coming through very muffled. Could you just repeat that, please?"
+   ],
+   "roleEn": "President, CEO & Director",
+   "speaker": "William Lansing",
+   "role": "CEO",
+   "fr": [
+    {
+     "text": "Manav, je… pour une raison ou une autre, les questions nous arrivent de façon très étouffée. Pourriez-vous simplement répéter, s'il vous plaît ?",
+     "start": 1618.78
+    }
+   ],
+   "enStart": [
+    1252.72
+   ]
+  },
+  {
+   "section": "qa",
+   "speakerEn": "Manav Patnaik",
+   "en": [
+    "Just a question around the preferred program being your preferred program as well or not necessarily?"
+   ],
+   "roleEn": "Barclays Bank PLC, Research Division",
+   "speaker": "Manav Patnaik",
+   "role": "Barclays",
+   "fr": [
+    {
+     "text": "Juste une question : le Preferred Program est-il aussi votre programme préféré, ou pas forcément ?",
+     "start": 1627.99
+    }
+   ],
+   "enStart": [
+    1260.48
+   ]
+  },
+  {
+   "section": "qa",
+   "speakerEn": "William Lansing",
+   "en": [
+    "Can you understand him?"
+   ],
+   "roleEn": "President, CEO & Director",
+   "speaker": "William Lansing",
+   "role": "CEO",
+   "fr": [
+    {
+     "text": "Vous le comprenez, vous ?",
+     "start": 1635.96
+    }
+   ],
+   "enStart": [
+    1267.12
+   ]
+  },
+  {
+   "section": "qa",
+   "speakerEn": "Dave Singleton",
+   "en": [
+    "I think he's just asking a question about pricing and he wants to know about the preferred program is something we think that most customers will take."
+   ],
+   "roleEn": "Vice President of Investor Relations",
+   "speaker": "Dave Singleton",
+   "role": "relations investisseurs",
+   "fr": [
+    {
+     "text": "Je pense qu'il pose simplement une question sur la tarification, et il veut savoir si le Preferred Program est quelque chose que, selon nous, la plupart des clients vont choisir.",
+     "start": 1638.63
+    }
+   ],
+   "enStart": [
+    1268.3
+   ]
+  },
+  {
+   "section": "qa",
+   "speakerEn": "William Lansing",
+   "en": [
+    "So the preferred program, okay, yes, I'm sorry, I couldn't really hear your question, Manav. The preferred program is enjoying popularity and we're in conversations with many lenders and originators about the preferred program and other options. We've had some uptake, as you've seen in our recent announcements. We anticipate additional uptake. So yes, I would say that the preferred program is a popular one, though not the only one."
+   ],
+   "roleEn": "President, CEO & Director",
+   "speaker": "William Lansing",
+   "role": "CEO",
+   "fr": [
+    {
+     "text": "Alors le Preferred Program, d'accord, oui, je suis désolé, je n'arrivais pas vraiment à entendre votre question, Manav. Le Preferred Program connaît un certain succès, et nous sommes en discussion avec de nombreux prêteurs et émetteurs de prêts au sujet du Preferred Program et d'autres options. Nous avons eu quelques adhésions, comme vous l'avez vu dans nos annonces récentes. Nous anticipons des adhésions supplémentaires. Donc oui, je dirais que le Preferred Program est un programme populaire, mais pas le seul.",
+     "start": 1649.0
+    }
+   ],
+   "enStart": [
+    1274.3
+   ]
+  },
+  {
+   "section": "qa",
+   "speakerEn": "Operator",
+   "en": [
+    "Our next question comes from the line of Simon Clinch of Rothschild & Co Redburn."
+   ],
+   "speaker": "Opératrice",
+   "role": "",
+   "fr": [
+    {
+     "text": "Notre question suivante vient de Simon Clinch, de Rothschild & Co Redburn.",
+     "start": 1677.85
+    }
+   ],
+   "enStart": [
+    1309.82
+   ]
+  },
+  {
+   "section": "qa",
+   "speakerEn": "Simon Alistair Clinch",
+   "en": [
+    "I wanted to just follow up on Manav's line of question there, Will. I mean, if -- maybe you could talk about the kind of pain points that you're trying to solve with the various number of different programs that you're exploring. And I was wondering in these discussions, whether or not your lender partners or lender customers actually sort of raising the -- are using, say, VantageScore, as a point of negotiation or anything like that? I was just curious about that kind of color."
+   ],
+   "roleEn": "Rothschild & Co Redburn, Research Division",
+   "speaker": "Simon Alistair Clinch",
+   "role": "Rothschild & Co Redburn",
+   "fr": [
+    {
+     "text": "Je voulais simplement poursuivre sur la ligne de questions de Manav, Will. Je veux dire, si… vous pourriez peut-être parler du type de problèmes (pain points) que vous cherchez à résoudre avec les différents programmes que vous explorez. Et je me demandais si, dans ces discussions, vos partenaires prêteurs ou vos clients prêteurs soulèvent en quelque sorte le… utilisent, disons, VantageScore comme argument de négociation, ou quelque chose de ce genre ? J'étais simplement curieux d'avoir ce genre de détails.",
+     "start": 1684.76
+    }
+   ],
+   "enStart": [
+    1322.54
+   ],
+   "topic": "Ce que veulent les prêteurs, et VantageScore comme moyen de pression"
+  },
+  {
+   "section": "qa",
+   "speakerEn": "William Lansing",
+   "en": [
+    "Well, I'm not sure I would describe anything we're doing as responding to pain points. I think that the way to think about this is, historically, we've had a one-size-fits-all, and it's been -- here's the score price, and here you go. And pretty much everybody had the same program. And we're in a very different kind of a mindset now.",
+    "I think we're trying to be more responsive to our customers, to our customers' needs, give them more options, more flexibility, let them do more of what they want to do. And as long as we can accommodate that, we're really flexible about how we take our IP to market. And as you know, just from -- over the last year or 2, we've talked about a lot of alternative models for bringing our IP to market. And so this is the beginning of some of that. I think that if you look at the construct of the preferred program, which we've announced, I think it's pretty obvious why it's appealing to the customers who signed up for it. And I think that some of the other programs are designed to appeal to other needs."
+   ],
+   "roleEn": "President, CEO & Director",
+   "speaker": "William Lansing",
+   "role": "CEO",
+   "fr": [
+    {
+     "text": "Eh bien, je ne suis pas sûr que je décrirais quoi que ce soit de ce que nous faisons comme une réponse à des problèmes. Je pense que la bonne façon d'y réfléchir, c'est que, historiquement, nous avions une offre unique pour tous, et c'était… voici le prix du score, et voilà. Et à peu près tout le monde avait le même programme. Et nous sommes maintenant dans un état d'esprit très différent.",
+     "start": 1723.33
+    },
+    {
+     "text": "Je pense que nous essayons d'être plus à l'écoute de nos clients, des besoins de nos clients, de leur donner plus d'options, plus de flexibilité, de les laisser faire davantage ce qu'ils veulent faire. Et tant que nous pouvons nous y adapter, nous sommes vraiment flexibles sur la façon dont nous mettons notre propriété intellectuelle sur le marché. Et comme vous le savez, rien que… au cours des un ou deux dernières années, nous avons parlé de beaucoup de modèles alternatifs pour mettre notre propriété intellectuelle sur le marché. Et donc ceci est le début d'une partie de cela. Je pense que si vous regardez la construction du Preferred Program, que nous avons annoncé, je pense que la raison pour laquelle il plaît aux clients qui y ont adhéré est assez évidente. Et je pense que certains des autres programmes sont conçus pour répondre à d'autres besoins.",
+     "start": 1745.3
+    }
+   ],
+   "enStart": [
+    1356.42,
+    1377.76
+   ]
+  },
+  {
+   "section": "qa",
+   "speakerEn": "Simon Alistair Clinch",
+   "en": [
+    "Just a follow up, Will. On the preferred program. Is there like a contracted period, which -- like do you have to sign up for a year? Is it 3 years? Or is it various depending on the customer?"
+   ],
+   "roleEn": "Rothschild & Co Redburn, Research Division",
+   "speaker": "Simon Alistair Clinch",
+   "role": "Rothschild & Co Redburn",
+   "fr": [
+    {
+     "text": "Juste une question complémentaire, Will. Sur le Preferred Program. Y a-t-il une sorte de durée contractuelle, laquelle… par exemple, faut-il s'engager pour un an ? Est-ce 3 ans ? Ou est-ce variable selon le client ?",
+     "start": 1795.87
+    }
+   ],
+   "enStart": [
+    1425.54
+   ]
+  },
+  {
+   "section": "qa",
+   "speakerEn": "William Lansing",
+   "en": [
+    "The term varies depending on the customer and the specific arrangement. As I said, these things are really bespoke, they're very customized. There are some annual arrangements, and then there are other arrangements. So yes, I would say that it's not one size fits all. It's very custom and tailored to each customer's needs."
+   ],
+   "roleEn": "President, CEO & Director",
+   "speaker": "William Lansing",
+   "role": "CEO",
+   "fr": [
+    {
+     "text": "La durée varie selon le client et l'arrangement précis. Comme je l'ai dit, ces choses sont vraiment sur mesure, très personnalisées. Il y a des arrangements annuels, et puis il y a d'autres arrangements. Donc oui, je dirais que ce n'est pas une offre unique pour tous. C'est très personnalisé et adapté aux besoins de chaque client.",
+     "start": 1811.33
+    }
+   ],
+   "enStart": [
+    1439.44
+   ]
+  },
+  {
+   "section": "qa",
+   "speakerEn": "Operator",
+   "en": [
+    "Our next question comes from the line of Jason Haas of Wells Fargo."
+   ],
+   "speaker": "Opératrice",
+   "role": "",
+   "fr": [
+    {
+     "text": "Notre question suivante vient de Jason Haas, de Wells Fargo.",
+     "start": 1833.1
+    }
+   ],
+   "enStart": [
+    1460.52
+   ]
+  },
+  {
+   "section": "qa",
+   "speakerEn": "Jason Haas",
+   "en": [
+    "I'm curious if you're seeing any issues that lenders are having in terms of like downstream uses of VantageScore, which would cause them to need to use FICO, whether it's the MBS market or anything else? Anything that you could point to there?"
+   ],
+   "roleEn": "Wells Fargo Securities, LLC, Research Division",
+   "speaker": "Jason Haas",
+   "role": "Wells Fargo",
+   "fr": [
+    {
+     "text": "Je suis curieux de savoir si vous constatez des problèmes que les prêteurs rencontrent avec les usages en aval de VantageScore, qui les obligeraient à utiliser FICO, que ce soit sur le marché des MBS (titres adossés à des prêts immobiliers) ou ailleurs ? Y a-t-il quelque chose que vous pourriez signaler à ce sujet ?",
+     "start": 1839.46
+    }
+   ],
+   "enStart": [
+    1471.18
+   ],
+   "topic": "VantageScore pose-t-il problème en aval (MBS) ?"
+  },
+  {
+   "section": "qa",
+   "speakerEn": "William Lansing",
+   "en": [
+    "Well, all this data is public and available, and I'd encourage you to go and look at it yourselves. Near as we can tell, FICO is used in most cases in the secondary market. And so any kind of problems with Vantage there, I think you got to consult with Vantage."
+   ],
+   "roleEn": "President, CEO & Director",
+   "speaker": "William Lansing",
+   "role": "CEO",
+   "fr": [
+    {
+     "text": "Eh bien, toutes ces données sont publiques et disponibles, et je vous encourage à aller les consulter vous-mêmes. D'après ce que nous pouvons en juger, FICO est utilisé dans la plupart des cas sur le marché secondaire. Et donc pour toute sorte de problème avec Vantage à ce niveau, je pense qu'il faut vous adresser à Vantage.",
+     "start": 1861.11
+    }
+   ],
+   "enStart": [
+    1490.24
+   ]
+  },
+  {
+   "section": "qa",
+   "speakerEn": "Jason Haas",
+   "en": [
+    "Got it. Okay. We'll take a look there. And then can you just give us an update on time line for implementation of the direct licensing program? And also any expectation for 10T approval by the FHFA?"
+   ],
+   "roleEn": "Wells Fargo Securities, LLC, Research Division",
+   "speaker": "Jason Haas",
+   "role": "Wells Fargo",
+   "fr": [
+    {
+     "text": "Compris. D'accord. Nous allons regarder ça. Et ensuite, pourriez-vous simplement faire le point sur le calendrier de mise en œuvre du programme de licence directe ? Et aussi sur vos attentes concernant l'approbation du 10T par la FHFA ?",
+     "start": 1881.82
+    }
+   ],
+   "enStart": [
+    1511.46
+   ]
+  },
+  {
+   "section": "qa",
+   "speakerEn": "William Lansing",
+   "en": [
+    "Sure. I appreciate those questions. So I'll take them one at a time. So direct license program, the preferred program that we announced recently is a direct license program. It's done through direct license, through the tri-merge resellers. So that is an example of the direct license program up and running.",
+    "The only thing that's not happening in that from a direct license standpoint that we've talked about previously is the computation of the score by the tri-merge resellers, that's still pending approval from the GSEs. But in all other respects, the direct license program is live. We -- and we're really excited and pleased with this. I mean our goal was to develop an alternate channel for bringing our IP to market to be able to work with the tri-merge resellers. And that's exactly what's occurring now.",
+    "And it's -- obviously, it's terrific for bringing mortgage scores to market, and that's their primary business. But it's also an opportunity for us to bring other kinds of IP to market. And we have -- in the tri-merge resellers, we have very willing and enthusiastic channel partners. So the direct license program is live. It's just not live in all the incarnations we've talked about.",
+    "In terms of 10T, it's still under review by the GSEs. You know that it was approved in 2022. And now it's going through another cycle of evaluation with the GSEs. You have access to the third-party studies and data that have been made public. You know that 10T is the most predictive score out there. It is a modern credit score. It does incorporate rental data. It is most predictive on credit default risk. It's most predictive on prepayment risk. So we're very excited about the value proposition represented by 10T.",
+    "It's being used in some parts of the market, but not all. So in the non-conforming market, we have over 80 lenders who've now taken it and are using it. It's either from an evaluation standpoint or some of them are making credit decisions with it. You know that the FHA has decided to use 10T starting January 1, 2027, and that's in their total credit decisioning. So we are still waiting for GSE approval and, I guess, implementation because theoretically, it's been approved. It's just not implemented. But we have a lot of optimism about the future of 10T."
+   ],
+   "roleEn": "President, CEO & Director",
+   "speaker": "William Lansing",
+   "role": "CEO",
+   "fr": [
+    {
+     "text": "Bien sûr. Merci pour ces questions. Je vais donc les prendre une par une. Alors, le programme de licence directe : le Preferred Program que nous avons annoncé récemment est un programme de licence directe. Il passe par la licence directe, par les tri-merge resellers. C'est donc un exemple du programme de licence directe en place et opérationnel.",
+     "start": 1899.39
+    },
+    {
+     "text": "La seule chose qui ne se produit pas encore dans ce cadre, du point de vue de la licence directe dont nous avons parlé précédemment, c'est le calcul du score par les tri-merge resellers : c'est encore en attente d'approbation par les GSEs. Mais à tous les autres égards, le programme de licence directe est en place. Nous… et nous en sommes vraiment ravis et satisfaits. Je veux dire, notre objectif était de développer un canal alternatif pour mettre notre propriété intellectuelle sur le marché, pour pouvoir travailler avec les tri-merge resellers. Et c'est exactement ce qui se passe maintenant.",
+     "start": 1920.54
+    },
+    {
+     "text": "Et c'est… évidemment, c'est formidable pour mettre les scores immobiliers sur le marché, et c'est leur activité principale. Mais c'est aussi une opportunité pour nous de mettre d'autres types de propriété intellectuelle sur le marché. Et nous avons… avec les tri-merge resellers, nous avons des partenaires de distribution très volontaires et enthousiastes. Donc le programme de licence directe est en place. Il ne l'est simplement pas encore sous toutes les formes dont nous avons parlé.",
+     "start": 1957.25
+    },
+    {
+     "text": "Concernant le 10T, il est toujours en cours d'examen par les GSEs. Vous savez qu'il a été approuvé en 2022. Et maintenant, il passe par un nouveau cycle d'évaluation avec les GSEs. Vous avez accès aux études et aux données de tiers qui ont été rendues publiques. Vous savez que le 10T est le score le plus prédictif qui existe. C'est un score de crédit moderne. Il intègre les données de loyers. C'est le plus prédictif sur le risque de défaut de crédit. C'est le plus prédictif sur le risque de remboursement anticipé. Nous sommes donc très enthousiastes quant à la proposition de valeur que représente le 10T.",
+     "start": 1985.86
+    },
+    {
+     "text": "Il est utilisé dans certaines parties du marché, mais pas toutes. Ainsi, sur le marché non-conforming, nous avons plus de 80 prêteurs qui l'ont désormais adopté et qui l'utilisent. Soit dans une démarche d'évaluation, soit, pour certains, pour prendre des décisions de crédit. Vous savez que la FHA a décidé d'utiliser le 10T à partir du 1er janvier 2027, et cela dans le cadre de son évaluation globale du crédit. Nous attendons donc toujours l'approbation des GSEs et, je suppose, la mise en œuvre, parce qu'en théorie, il a été approuvé. Il n'est simplement pas mis en œuvre. Mais nous sommes très optimistes quant à l'avenir du 10T.",
+     "start": 2024.91
+    }
+   ],
+   "enStart": [
+    1528.2,
+    1544.72,
+    1572.86,
+    1597.57,
+    1634.55
+   ]
+  },
+  {
+   "section": "qa",
+   "speakerEn": "Operator",
+   "en": [
+    "Our next question comes from the line of Jeff Meuler of Baird."
+   ],
+   "speaker": "Opératrice",
+   "role": "",
+   "fr": [
+    {
+     "text": "Notre question suivante vient de Jeff Meuler, de Baird.",
+     "start": 2071.38
+    }
+   ],
+   "enStart": [
+    1681.61
+   ]
+  },
+  {
+   "section": "qa",
+   "speakerEn": "Jeffrey Meuler",
+   "en": [
+    "Is anything resembling the prior performance model still on the list of program options for calendar year '27 pricing?"
+   ],
+   "roleEn": "Robert W. Baird & Co. Incorporated, Research Division",
+   "speaker": "Jeffrey Meuler",
+   "role": "Baird",
+   "fr": [
+    {
+     "text": "Est-ce que quelque chose qui ressemble à l'ancien modèle de rémunération à la performance (performance model) figure encore dans la liste des options de programmes pour la tarification de l'année civile 2027 ?",
+     "start": 2076.64
+    }
+   ],
+   "enStart": [
+    1689.97
+   ],
+   "topic": "L'ancien performance model est-il abandonné ?"
+  },
+  {
+   "section": "qa",
+   "speakerEn": "William Lansing",
+   "en": [
+    "Yes. We have not withdrawn that model. That model we described it last year, and we're excited about getting it to market. And it's still pending certification and approval from the GSEs, but we have not, in any way, formally withdrawn that model. Now whether that model is superseded by other models that we're working with right now, that's for the market to decide. But the performance model is still an option."
+   ],
+   "roleEn": "President, CEO & Director",
+   "speaker": "William Lansing",
+   "role": "CEO",
+   "fr": [
+    {
+     "text": "Oui. Nous n'avons pas retiré ce modèle. Ce modèle, nous l'avons décrit l'an dernier, et nous sommes enthousiastes à l'idée de le mettre sur le marché. Il est toujours en attente de certification et d'approbation par les GSEs, mais nous n'avons en aucune manière retiré formellement ce modèle. Maintenant, que ce modèle soit supplanté par d'autres modèles sur lesquels nous travaillons en ce moment, c'est au marché d'en décider. Mais le performance model reste une option.",
+     "start": 2090.15
+    }
+   ],
+   "enStart": [
+    1699.27
+   ]
+  },
+  {
+   "section": "qa",
+   "speakerEn": "Jeffrey Meuler",
+   "en": [
+    "Got it. And do any of the new programs change the client use or reuse rights of FICO Scores? And as a part of that, do you tap into any new payer types beyond the underwriting lender?"
+   ],
+   "roleEn": "Robert W. Baird & Co. Incorporated, Research Division",
+   "speaker": "Jeffrey Meuler",
+   "role": "Baird",
+   "fr": [
+    {
+     "text": "Compris. Et est-ce que l'un des nouveaux programmes change les droits d'utilisation ou de réutilisation des FICO Scores par les clients ? Et dans ce cadre, est-ce que vous touchez de nouveaux types de payeurs au-delà du prêteur qui accorde le prêt ?",
+     "start": 2121.25
+    }
+   ],
+   "enStart": [
+    1732.75
+   ]
+  },
+  {
+   "section": "qa",
+   "speakerEn": "William Lansing",
+   "en": [
+    "The short answer to that is not at this time."
+   ],
+   "roleEn": "President, CEO & Director",
+   "speaker": "William Lansing",
+   "role": "CEO",
+   "fr": [
+    {
+     "text": "La réponse courte est : pas pour le moment.",
+     "start": 2136.9
+    }
+   ],
+   "enStart": [
+    1750.69
+   ]
+  },
+  {
+   "section": "qa",
+   "speakerEn": "Operator",
+   "en": [
+    "Our next question comes from the line of Surinder Thind of Jefferies."
+   ],
+   "speaker": "Opératrice",
+   "role": "",
+   "fr": [
+    {
+     "text": "Notre question suivante vient de Surinder Thind, de Jefferies.",
+     "start": 2140.17
+    }
+   ],
+   "enStart": [
+    1759.75
+   ]
+  },
+  {
+   "section": "qa",
+   "speakerEn": "Surinder Thind",
+   "en": [
+    "Will, earlier you mentioned just the 10T going live with FHFA at the beginning of the new year in '27. Can you maybe help us understand how the FHA uses the credit scores or how many pulls? Because at the same time, my understanding is that VS4 will also go live on January 1. And now you have a situation where there's multiple scores available to the FHA."
+   ],
+   "roleEn": "Jefferies LLC, Research Division",
+   "speaker": "Surinder Thind",
+   "role": "Jefferies",
+   "fr": [
+    {
+     "text": "Will, vous avez mentionné plus tôt le 10T qui sera mis en place avec la FHFA au début de la nouvelle année, en 2027. Pourriez-vous nous aider à comprendre comment la FHA utilise les scores de crédit, ou combien de tirages ? Parce qu'en même temps, je crois comprendre que VS4 sera aussi mis en place le 1er janvier. Et vous avez maintenant une situation où plusieurs scores sont à la disposition de la FHA.",
+     "start": 2145.98
+    }
+   ],
+   "enStart": [
+    1772.09
+   ],
+   "topic": "Score 10T et FHA : comment plusieurs scores seront utilisés"
+  },
+  {
+   "section": "qa",
+   "speakerEn": "William Lansing",
+   "en": [
+    "The FHA uses 10T as part of a broader credit evaluation. So it's part of the total score -- the total credit evaluation."
+   ],
+   "roleEn": "President, CEO & Director",
+   "speaker": "William Lansing",
+   "role": "CEO",
+   "fr": [
+    {
+     "text": "La FHA utilise le 10T dans le cadre d'une évaluation du crédit plus large. Il fait donc partie du score total… de l'évaluation globale du crédit.",
+     "start": 2176.34
+    }
+   ],
+   "enStart": [
+    1801.11
+   ]
+  },
+  {
+   "section": "qa",
+   "speakerEn": "Surinder Thind",
+   "en": [
+    "Got it. I guess is the implication that they're going to pull both scores. Is that -- I'm just trying to understand how the total credit evaluation works. I guess that was..."
+   ],
+   "roleEn": "Jefferies LLC, Research Division",
+   "speaker": "Surinder Thind",
+   "role": "Jefferies",
+   "fr": [
+    {
+     "text": "Compris. Je suppose que cela signifie qu'ils vont tirer les deux scores ? C'est bien ça… J'essaie simplement de comprendre comment fonctionne l'évaluation globale du crédit. Je suppose que c'était…",
+     "start": 2187.0
+    }
+   ],
+   "enStart": [
+    1814.35
+   ]
+  },
+  {
+   "section": "qa",
+   "speakerEn": "William Lansing",
+   "en": [
+    "I can't tell you exactly how that's going to work. A lot of that is their secret sauce."
+   ],
+   "roleEn": "President, CEO & Director",
+   "speaker": "William Lansing",
+   "role": "CEO",
+   "fr": [
+    {
+     "text": "Je ne peux pas vous dire exactement comment cela va fonctionner. Une grande partie relève de leur recette secrète.",
+     "start": 2208.38
+    }
+   ],
+   "enStart": [
+    1823.95
+   ]
+  },
+  {
+   "section": "qa",
+   "speakerEn": "Surinder Thind",
+   "en": [
+    "Got it. Okay. That's helpful or understood. And then I guess in terms of just any update in terms of conversations with the regulators at this point, whether it's, I guess, the approval for 10T or the implementation, I guess, technically or the tri-merge to bi-merge. Just any other topics that are that are up in the air or just what may be going on behind the scenes, if there's anything to note or highlight there?"
+   ],
+   "roleEn": "Jefferies LLC, Research Division",
+   "speaker": "Surinder Thind",
+   "role": "Jefferies",
+   "fr": [
+    {
+     "text": "Compris. D'accord. C'est utile, ou c'est compris. Et ensuite, je suppose, y a-t-il du nouveau dans vos discussions avec les régulateurs à ce stade, que ce soit, je suppose, l'approbation du 10T ou sa mise en œuvre, je suppose, techniquement, ou le passage du tri-merge au bi-merge ? Y a-t-il d'autres sujets en suspens, ou ce qui se passe peut-être en coulisses, s'il y a quelque chose à noter ou à souligner ?",
+     "start": 2216.4
+    }
+   ],
+   "enStart": [
+    1830.21
+   ]
+  },
+  {
+   "section": "qa",
+   "speakerEn": "William Lansing",
+   "en": [
+    "I wish there were things to note and highlight there. We continue to have conversations with them, and there is progress being made and they're working through their own process. And I'm confident that we'll get to where we need to get to, but I don't really have an update for you right now."
+   ],
+   "roleEn": "President, CEO & Director",
+   "speaker": "William Lansing",
+   "role": "CEO",
+   "fr": [
+    {
+     "text": "J'aimerais bien qu'il y ait des choses à noter et à souligner. Nous continuons d'avoir des discussions avec eux, des progrès sont faits, et ils avancent dans leur propre processus. Et je suis confiant que nous arriverons là où nous devons arriver, mais je n'ai pas vraiment de nouvelles à vous donner pour le moment.",
+     "start": 2246.4
+    }
+   ],
+   "enStart": [
+    1865.33
+   ]
+  },
+  {
+   "section": "qa",
+   "speakerEn": "Operator",
+   "en": [
+    "Our next question comes from the line of Ashish Sabadra of RBC Capital Markets."
+   ],
+   "speaker": "Opératrice",
+   "role": "",
+   "fr": [
+    {
+     "text": "Notre question suivante vient d'Ashish Sabadra, de RBC Capital Markets.",
+     "start": 2262.65
+    }
+   ],
+   "enStart": [
+    1887.67
+   ]
+  },
+  {
+   "section": "qa",
+   "speakerEn": "Ashish Sabadra",
+   "en": [
+    "Another question on pricing. As you think about all these different pricing strategies, net-net, even on a blended basis, would pricing be flat, up or down next year depending on different adoption profiles for different strategies?"
+   ],
+   "roleEn": "RBC Capital Markets, Research Division",
+   "speaker": "Ashish Sabadra",
+   "role": "RBC Capital Markets",
+   "fr": [
+    {
+     "text": "Une autre question sur la tarification. En pensant à toutes ces différentes stratégies tarifaires, au final, même en moyenne pondérée, le prix serait-il stable, en hausse ou en baisse l'an prochain, selon les différents profils d'adoption des différentes stratégies ?",
+     "start": 2269.85
+    }
+   ],
+   "enStart": [
+    1898.67
+   ],
+   "topic": "Le prix moyen sera-t-il en hausse ou en baisse en 2027 ?"
+  },
+  {
+   "section": "qa",
+   "speakerEn": "William Lansing",
+   "en": [
+    "Ashish, I guess I can't blame you for asking the question, but maybe it's time for me just to explain a little bit of a change in philosophy, and how we talk about our pricing and our programs and so on.",
+    "I know -- I think you all know. It is no secret that transparency and detail on our programs and pricing have not been particularly helpful for FICO. We were of a view for many years that because the FICO score at $10 or $4.95 or whatever we were charging, was such a tiny fraction of overall closing costs. We really didn't think that the price was a very big deal. We thought that the value so far exceeded the price that why not share details around the pricing, just so that everyone understands how little it is in the scheme of things.",
+    "And as you all know from watching events over the last several years, we've really been attacked for what we consider to be not very good reasons. We're attacked because we're transparent and clear about our score price. And as you all know, the credit files costs a lot more, credit evaluation costs are much more. In fact, every other element of the closing is a lot more than what FICO charges. And yet somehow FICO has become the poster child for affordability in housing, which is just a crazy thing.",
+    "So internally, we've had a lot of conversations about, has this transparency been helpful? And the conclusion is, no. It has not been helpful. And I think you guys know that we've probably been in the top decile of open transparent, help everyone outside understand what we're doing inside. But it hasn't really worked very well for us. And so on a go-forward basis, our intention is to not share every detail. We're not going to share every pricing program. We're not going to share what the prices are. We're not going to share all the terms. They're going to be customized by customer to meet customer needs. And we're just not going to provide all that kind of information.",
+    "So to your very specific question, as the average price of FICO Score going up, down or sideways, we're not going to answer that. And you guys who have been watching us and watching the industry can understand exactly why we're not going to answer that."
+   ],
+   "roleEn": "President, CEO & Director",
+   "speaker": "William Lansing",
+   "role": "CEO",
+   "fr": [
+    {
+     "text": "Ashish, je suppose que je ne peux pas vous reprocher de poser la question, mais il est peut-être temps que je vous explique un peu un changement de philosophie, dans la façon dont nous parlons de notre tarification, de nos programmes, et ainsi de suite.",
+     "start": 2289.05
+    },
+    {
+     "text": "Je sais… je pense que vous le savez tous. Ce n'est un secret pour personne que la transparence et le détail sur nos programmes et nos prix n'ont pas particulièrement aidé FICO. Pendant de nombreuses années, nous pensions que, parce que le FICO Score, à 10 dollars, ou à 4,95 dollars, ou quel que soit le prix que nous facturions, représentait une si petite fraction des frais de clôture totaux, le prix n'était vraiment pas un gros sujet. Nous pensions que la valeur dépassait tellement le prix que, pourquoi ne pas partager les détails sur la tarification, simplement pour que tout le monde comprenne à quel point c'est peu de chose dans l'ensemble.",
+     "start": 2302.4
+    },
+    {
+     "text": "Et comme vous le savez tous en ayant suivi les événements des dernières années, nous avons vraiment été attaqués pour ce que nous considérons comme de pas très bonnes raisons. Nous sommes attaqués parce que nous sommes transparents et clairs sur le prix de notre score. Et comme vous le savez tous, les dossiers de crédit coûtent beaucoup plus cher, les coûts d'évaluation du crédit sont bien plus élevés. En fait, tous les autres éléments de la clôture coûtent beaucoup plus que ce que FICO facture. Et pourtant, d'une façon ou d'une autre, FICO est devenu l'emblème du problème d'accessibilité du logement, ce qui est simplement insensé.",
+     "start": 2340.62
+    },
+    {
+     "text": "Alors en interne, nous avons eu beaucoup de discussions : est-ce que cette transparence nous a aidés ? Et la conclusion est : non. Elle ne nous a pas aidés. Et je pense que vous savez que nous avons probablement fait partie des 10 % les plus ouverts et transparents, à aider tout le monde à l'extérieur à comprendre ce que nous faisons à l'intérieur. Mais cela n'a pas vraiment bien fonctionné pour nous. Et donc, à l'avenir, notre intention est de ne pas partager chaque détail. Nous n'allons pas partager chaque programme de tarification. Nous n'allons pas partager les prix. Nous n'allons pas partager toutes les conditions. Elles seront personnalisées par client pour répondre aux besoins des clients. Et nous n'allons tout simplement pas fournir toutes ces informations.",
+     "start": 2381.72
+    },
+    {
+     "text": "Donc, pour répondre à votre question très précise, à savoir si le prix moyen du FICO Score va monter, baisser ou rester stable, nous n'allons pas y répondre. Et vous qui nous observez et qui observez le secteur, vous pouvez comprendre exactement pourquoi nous n'allons pas y répondre.",
+     "start": 2425.67
+    }
+   ],
+   "enStart": [
+    1914.27,
+    1928.73,
+    1966.85,
+    2004.83,
+    2042.65
+   ]
+  },
+  {
+   "section": "qa",
+   "speakerEn": "Ashish Sabadra",
+   "en": [
+    "That's very helpful color. Maybe just, again, on the EPS, we appreciate the current environment makes formal guidance challenging. But just Wondering if you could provide some high-level goalpost around EPS expectations. Is that -- can you continue to drive earnings growth in '27 with all these moving pieces?"
+   ],
+   "roleEn": "RBC Capital Markets, Research Division",
+   "speaker": "Ashish Sabadra",
+   "role": "RBC Capital Markets",
+   "fr": [
+    {
+     "text": "Ce sont des précisions très utiles. Peut-être juste, encore une fois, sur le BPA : nous comprenons que l'environnement actuel rend une guidance formelle difficile. Mais je me demandais simplement si vous pouviez donner quelques repères généraux sur les attentes de BPA. Est-ce que… pouvez-vous continuer à faire croître les bénéfices en 2027 avec tous ces éléments en mouvement ?",
+     "start": 2444.92
+    }
+   ],
+   "enStart": [
+    2058.47
+   ]
+  },
+  {
+   "section": "qa",
+   "speakerEn": "William Lansing",
+   "en": [
+    "We're not going to provide guidance at this time. Now as things come into more focus as we work through the different programs and pricing and terms and watch industry volumes and so on, we'll be in a better position to share guidance with you, but we're not ready to do that at this time."
+   ],
+   "roleEn": "President, CEO & Director",
+   "speaker": "William Lansing",
+   "role": "CEO",
+   "fr": [
+    {
+     "text": "Nous n'allons pas donner de guidance pour le moment. Maintenant, à mesure que les choses se préciseront, que nous avancerons sur les différents programmes, les prix et les conditions, et que nous observerons les volumes du secteur, et ainsi de suite, nous serons mieux placés pour partager une guidance avec vous, mais nous ne sommes pas prêts à le faire pour le moment.",
+     "start": 2473.98
+    }
+   ],
+   "enStart": [
+    2081.01
+   ]
+  },
+  {
+   "section": "qa",
+   "speakerEn": "Operator",
+   "en": [
+    "Our next question comes from the line of Faiza Alwy of Deutsche Bank."
+   ],
+   "speaker": "Opératrice",
+   "role": "",
+   "fr": [
+    {
+     "text": "Notre question suivante vient de Faiza Alwy, de Deutsche Bank.",
+     "start": 2494.79
+    }
+   ],
+   "enStart": [
+    2099.31
+   ]
+  },
+  {
+   "section": "qa",
+   "speakerEn": "Faiza Alwy",
+   "en": [
+    "Okay. I'm going to try and ask the same question in a different way. I guess, Will, you said in response to a prior question that it's obvious that the preferred program is appealing to customers, and it does seem appealing. And I'm just curious as we're thinking about the model and about 2027, like what are some of the reasons that you might be hearing why someone might not want to sign up for the preferred program, and you said there may be other programs that are designed to appeal to those other needs.",
+    "So maybe talk about some of those other needs and give us some perspective on what you're seeing? And I guess, is the worst-case scenario essentially that there is no pricing and everyone goes with the preferred program in addition to just lower volumes due to mortgage rates?"
+   ],
+   "roleEn": "Deutsche Bank AG, Research Division",
+   "speaker": "Faiza Alwy",
+   "role": "Deutsche Bank",
+   "fr": [
+    {
+     "text": "D'accord. Je vais essayer de poser la même question d'une autre façon. Je suppose, Will, que vous avez dit en réponse à une question précédente qu'il est évident que le Preferred Program plaît aux clients, et il semble effectivement attrayant. Et je suis curieuse, alors que nous réfléchissons au modèle et à 2027, de savoir quelles sont certaines des raisons que vous entendez peut-être pour lesquelles quelqu'un pourrait ne pas vouloir adhérer au Preferred Program, et vous avez dit qu'il pourrait y avoir d'autres programmes conçus pour répondre à ces autres besoins.",
+     "start": 2501.11
+    },
+    {
+     "text": "Alors peut-être pourriez-vous parler de certains de ces autres besoins et nous donner un aperçu de ce que vous constatez ? Et je suppose, est-ce que le pire scénario serait essentiellement qu'il n'y ait pas de hausse de prix (« no pricing ») et que tout le monde choisisse le Preferred Program, en plus de simplement des volumes plus faibles à cause des taux immobiliers ?",
+     "start": 2534.26
+    }
+   ],
+   "enStart": [
+    2109.77,
+    2143.75
+   ],
+   "topic": "Pourquoi un prêteur refuserait le Preferred Program"
+  },
+  {
+   "section": "qa",
+   "speakerEn": "William Lansing",
+   "en": [
+    "Well, so I can't tell you what the uptake rate will be on the preferred program. Yes, it is popular. And we're happy that it is and for some of the major lenders who are signing up, we're sharing that with you all. So you have a sense for the popularity of it. But we're not going to go into details on the other programs. And for the reasons that we just explained, we're just -- I'm sorry, that we're not going to be in a position to give you that detail."
+   ],
+   "roleEn": "President, CEO & Director",
+   "speaker": "William Lansing",
+   "role": "CEO",
+   "fr": [
+    {
+     "text": "Eh bien, je ne peux pas vous dire quel sera le taux d'adhésion au Preferred Program. Oui, il est populaire. Et nous en sommes heureux, et pour certains des grands prêteurs qui y adhèrent, nous vous le communiquons. Vous avez donc une idée de sa popularité. Mais nous n'allons pas entrer dans les détails des autres programmes. Et pour les raisons que nous venons d'expliquer, nous… je suis désolé, mais nous ne serons pas en mesure de vous donner ce détail.",
+     "start": 2555.07
+    }
+   ],
+   "enStart": [
+    2164.59
+   ]
+  },
+  {
+   "section": "qa",
+   "speakerEn": "Faiza Alwy",
+   "en": [
+    "Okay. Okay. Understood. Let me ask you then, obviously, you've had this restructuring program. Maybe you can talk about the level of savings that we should expect from the restructuring program in 2027? Maybe as we think about just the actual reported savings versus what the run rate savings might be exiting the year? And how we should think about -- will those flow through to the bottom line? Or should we expect those to be reinvested?"
+   ],
+   "roleEn": "Deutsche Bank AG, Research Division",
+   "speaker": "Faiza Alwy",
+   "role": "Deutsche Bank",
+   "fr": [
+    {
+     "text": "D'accord. D'accord. Compris. Permettez-moi alors de vous demander : vous avez évidemment eu ce programme de restructuration. Peut-être pourriez-vous parler du niveau d'économies que nous devrions attendre du programme de restructuration en 2027 ? Peut-être en distinguant les économies réellement publiées et le rythme annuel d'économies (run rate) en sortie d'année ? Et comment devrions-nous y réfléchir : est-ce que ces économies vont se retrouver dans le résultat net ? Ou devons-nous nous attendre à ce qu'elles soient réinvesties ?",
+     "start": 2580.58
+    }
+   ],
+   "enStart": [
+    2193.43
+   ]
+  },
+  {
+   "section": "qa",
+   "speakerEn": "Steven Weber",
+   "en": [
+    "Yes. I mean, I think you can expect a lot of it to get reinvested. As you saw over the course of the year, our expenses ramped up throughout the year. We bought a couple of smaller companies and absorb those expenses. We've seen some expenses in AI. So a lot of this is reallocating our resources. And as we go live with Northstar project, there's things that we were done with, right?",
+    "And we talked a little bit about professional services. We don't need as much implementation. So this is a great opportunity to reallocate some resources into distribution and other things. So we're not going to talk about specific dollar amounts at this point, we'll discuss that more as we move through the year. But that's a lot of -- it's just a general reevaluation of our needs and reallocating the resources accordingly."
+   ],
+   "roleEn": "Executive VP & CFO",
+   "speaker": "Steven Weber",
+   "role": "CFO",
+   "fr": [
+    {
+     "text": "Oui. Je veux dire, je pense que vous pouvez vous attendre à ce qu'une grande partie soit réinvestie. Comme vous l'avez vu au cours de l'année, nos charges ont augmenté tout au long de l'année. Nous avons acheté deux ou trois petites sociétés et absorbé ces charges. Nous avons eu des dépenses dans l'IA. Donc une grande partie de cela consiste à réallouer nos ressources. Et à mesure que nous mettons en service le projet Northstar, il y a des choses que nous avons terminées, n'est-ce pas ?",
+     "start": 2612.84
+    },
+    {
+     "text": "Et nous avons un peu parlé des services professionnels. Nous n'avons plus autant besoin de mise en œuvre. C'est donc une excellente occasion de réallouer certaines ressources vers la distribution et d'autres choses. Donc nous n'allons pas parler de montants précis en dollars à ce stade, nous en parlerons davantage au fil de l'année. Mais c'est en grande partie… c'est simplement une réévaluation générale de nos besoins et une réallocation des ressources en conséquence.",
+     "start": 2644.69
+    }
+   ],
+   "enStart": [
+    2225.79,
+    2249.29
+   ]
+  },
+  {
+   "section": "qa",
+   "speakerEn": "Operator",
+   "en": [
+    "Our next question comes from the line of Alexander Hess of JPMorgan."
+   ],
+   "speaker": "Opératrice",
+   "role": "",
+   "fr": [
+    {
+     "text": "Notre question suivante vient d'Alexander Hess, de JPMorgan.",
+     "start": 2674.6
+    }
+   ],
+   "enStart": [
+    2276.01
+   ]
+  },
+  {
+   "section": "qa",
+   "speakerEn": "Alexander EM Hess",
+   "en": [
+    "I wanted to just start with the preferred program. I know there's been a lot of questions on it. But my understanding, and correct me if this is wrong, guys, is that the preferred program involves you guys holding price at $10, but -- and giving the client both a classic FICO and a FICO 10T inquiry score for the price of one. But the existence of a carrot, if you'll excuse the metaphor, sort of implies the existence of a stick. And I think that's sort of what people are trying to get at. Again, sorry for the metaphor, but how to think about why somebody would choose this versus another program at a high level? Or anything you can provide there would be great."
+   ],
+   "roleEn": "JPMorgan Chase & Co, Research Division",
+   "speaker": "Alexander EM Hess",
+   "role": "JPMorgan",
+   "fr": [
+    {
+     "text": "Je voulais simplement commencer par le Preferred Program. Je sais qu'il y a eu beaucoup de questions dessus. Mais d'après ce que je comprends, et corrigez-moi si je me trompe, messieurs, le Preferred Program consiste pour vous à maintenir le prix à 10 dollars, mais… et à donner au client à la fois un FICO classique et un score FICO 10T pour la même demande, pour le prix d'un seul. Mais l'existence d'une carotte, si vous me passez la métaphore, implique en quelque sorte l'existence d'un bâton. Et je pense que c'est un peu là où les gens essaient d'en venir. Encore une fois, désolé pour la métaphore, mais comment réfléchir, à un niveau général, aux raisons pour lesquelles quelqu'un choisirait ce programme plutôt qu'un autre ? Tout ce que vous pourriez nous donner à ce sujet serait formidable.",
+     "start": 2680.65
+    }
+   ],
+   "enStart": [
+    2286.79
+   ],
+   "topic": "Preferred Program : la carotte et le bâton"
+  },
+  {
+   "section": "qa",
+   "speakerEn": "William Lansing",
+   "en": [
+    "Yes. I guess I don't really see the stick. There's nothing exclusive about the preferred program. I mean you can participate in the preferred program and still buy, VantageScores, you can still do all the gaming that has been talked about in the industry, which I think is a real thing. But there's -- so I don't really see a stick.",
+    "And -- so I think there's a lot of popularity there because it looks a lot like business as usual. It looks a lot like what our customers have been doing. And it does provide a level of price certainty and price stability for customers. So that part that you mentioned is absolutely accurate. But I think that's why they're going for it."
+   ],
+   "roleEn": "President, CEO & Director",
+   "speaker": "William Lansing",
+   "role": "CEO",
+   "fr": [
+    {
+     "text": "Oui. Je suppose que je ne vois pas vraiment le bâton. Il n'y a rien d'exclusif dans le Preferred Program. Je veux dire, vous pouvez participer au Preferred Program et continuer à acheter des VantageScores, vous pouvez continuer à faire tout le gaming dont on a parlé dans le secteur, ce qui, je pense, est une réalité. Mais il n'y a… donc je ne vois pas vraiment de bâton.",
+     "start": 2733.81
+    },
+    {
+     "text": "Et… donc je pense qu'il est très populaire parce qu'il ressemble beaucoup au fonctionnement habituel. Il ressemble beaucoup à ce que nos clients faisaient déjà. Et il apporte un certain niveau de visibilité et de stabilité des prix aux clients. Donc la partie que vous avez mentionnée est tout à fait exacte. Mais je pense que c'est pour cela qu'ils y adhèrent.",
+     "start": 2756.47
+    }
+   ],
+   "enStart": [
+    2327.19,
+    2351.81
+   ]
+  },
+  {
+   "section": "qa",
+   "speakerEn": "Alexander EM Hess",
+   "en": [
+    "Understood. Maybe just to reframe my question a little bit. I think, well, what I was trying to get at was, the customer is being asked to give up something of value, which is committing to FICO for every pull. So that was sort of what I thought was the carrot was flat pricing in exchange for that, but maybe there was -- that implies something else about the -- what other programs are available.",
+    "I hope you -- that's where my thinking was. But maybe to switch gears and ask Steve a question. Steve, I know you're not providing guidance at this time, but just any dimensions, any color you can share about what you expect ex mortgage for the business in the fiscal year ahead. Just some thoughts there? I know we're not talking specifically on mortgage loan guide..."
+   ],
+   "roleEn": "JPMorgan Chase & Co, Research Division",
+   "speaker": "Alexander EM Hess",
+   "role": "JPMorgan",
+   "fr": [
+    {
+     "text": "Compris. Peut-être simplement pour reformuler un peu ma question. Je pense, eh bien, ce que j'essayais de dire, c'est qu'on demande au client de renoncer à quelque chose qui a de la valeur, à savoir s'engager auprès de FICO pour chaque tirage. Donc c'est un peu ce que je pensais être la carotte : un prix stable en échange de cela, mais peut-être y avait-il… cela implique autre chose sur les… quels autres programmes sont disponibles.",
+     "start": 2778.63
+    },
+    {
+     "text": "J'espère que vous… c'était là mon raisonnement. Mais pour changer de sujet, et poser une question à Steve. Steve, je sais que vous ne donnez pas de guidance pour le moment, mais pourriez-vous partager des éléments, des indications sur ce que vous attendez pour l'activité hors immobilier au cours de l'exercice à venir ? Juste quelques réflexions là-dessus ? Je sais que nous ne parlons pas précisément de la guidance sur les prêts immobiliers…",
+     "start": 2810.29
+    }
+   ],
+   "enStart": [
+    2374.61,
+    2399.59
+   ]
+  },
+  {
+   "section": "qa",
+   "speakerEn": "Steven Weber",
+   "en": [
+    "Yes, we don't. Frankly, it's -- as you're familiar with us from following us for several years. The way we guide is we guide the whole company. So to parse the piece of that out -- we were able to guide the whole company because we have 2 different pieces, and we can kind of balance puts and takes on both sides. So it's pretty difficult to guide half of it, and we're not going to do that at this point."
+   ],
+   "roleEn": "Executive VP & CFO",
+   "speaker": "Steven Weber",
+   "role": "CFO",
+   "fr": [
+    {
+     "text": "Oui, nous ne le faisons pas. Franchement, c'est… vous nous connaissez, puisque vous nous suivez depuis plusieurs années. Notre façon de donner une guidance, c'est que nous donnons une guidance pour l'ensemble de la société. Donc isoler une partie de cela… nous pouvions donner une guidance pour l'ensemble de la société parce que nous avons 2 activités différentes, et que nous pouvons en quelque sorte équilibrer les plus et les moins des deux côtés. Donc il est assez difficile de donner une guidance pour la moitié, et nous n'allons pas le faire à ce stade.",
+     "start": 2839.4
+    }
+   ],
+   "enStart": [
+    2422.21
+   ]
+  },
+  {
+   "section": "qa",
+   "speakerEn": "Operator",
+   "en": [
+    "Our next question comes from the line of George Tong of Goldman Sachs."
+   ],
+   "speaker": "Opératrice",
+   "role": "",
+   "fr": [
+    {
+     "text": "Notre question suivante vient de George Tong, de Goldman Sachs.",
+     "start": 2873.6
+    }
+   ],
+   "enStart": [
+    2445.77
+   ]
+  },
+  {
+   "section": "qa",
+   "speakerEn": "Keen Fai Tong",
+   "en": [
+    "You're using several bespoke programs to secure mortgage volumes under various different pricing arrangements. Across those programs, what portion of 2027 mortgage originations do you expect to have under committed agreements?"
+   ],
+   "roleEn": "Goldman Sachs Group, Inc., Research Division",
+   "speaker": "Keen Fai (George) Tong",
+   "role": "Goldman Sachs",
+   "fr": [
+    {
+     "text": "Vous utilisez plusieurs programmes sur mesure pour sécuriser les volumes de prêts immobiliers, avec différents arrangements tarifaires. Sur l'ensemble de ces programmes, quelle part des originations de prêts immobiliers de 2027 vous attendez-vous à avoir sous accords d'engagement ?",
+     "start": 2879.51
+    }
+   ],
+   "enStart": [
+    2454.55
+   ],
+   "topic": "Quelle part des prêts 2027 sous engagement ?"
+  },
+  {
+   "section": "qa",
+   "speakerEn": "William Lansing",
+   "en": [
+    "George, I guess, I would just go back to the comments I made earlier about how we're not going to break out all this kind of detail. We're not going to provide details on these other programs or the pricing on the other programs or the percent that goes into one program versus another. It's just something we're not prepared to do. Hasn't helped us in the past. We don't believe it's helpful in the future. So I'm sorry, I can't answer that question for you."
+   ],
+   "roleEn": "President, CEO & Director",
+   "speaker": "William Lansing",
+   "role": "CEO",
+   "fr": [
+    {
+     "text": "George, je suppose que je vous renverrais simplement aux commentaires que j'ai faits plus tôt, sur le fait que nous n'allons pas détailler ce genre d'informations. Nous n'allons pas donner de détails sur ces autres programmes, ni sur les prix des autres programmes, ni sur le pourcentage qui va dans un programme plutôt qu'un autre. C'est simplement quelque chose que nous ne sommes pas prêts à faire. Cela ne nous a pas aidés dans le passé. Nous ne pensons pas que ce soit utile à l'avenir. Donc je suis désolé, je ne peux pas répondre à cette question.",
+     "start": 2899.96
+    }
+   ],
+   "enStart": [
+    2472.53
+   ]
+  },
+  {
+   "section": "qa",
+   "speakerEn": "Keen Fai Tong",
+   "en": [
+    "Understood. And then with respect to guidance, what specifically needs to fall into place for you to provide fiscal 2027 guidance? And is it possible you won't provide guidance at any point this year?"
+   ],
+   "roleEn": "Goldman Sachs Group, Inc., Research Division",
+   "speaker": "Keen Fai (George) Tong",
+   "role": "Goldman Sachs",
+   "fr": [
+    {
+     "text": "Compris. Et ensuite, concernant la guidance, qu'est-ce qui doit précisément se mettre en place pour que vous donniez une guidance pour l'exercice 2027 ? Et est-il possible que vous ne donniez aucune guidance cette année ?",
+     "start": 2930.83
+    }
+   ],
+   "enStart": [
+    2497.09
+   ]
+  },
+  {
+   "section": "qa",
+   "speakerEn": "William Lansing",
+   "en": [
+    "I think it's likely that we will be providing guidance as we have more of the pricing nailed down. I mean, remember, our fiscal starts 10/1, and our pricing happens Jan 1. And so we're right now in the middle of negotiations, discussions on different kinds of arrangements with a whole bunch of different lenders and originators. And so now is not a good time for us to be -- especially given all the fact that there are multiple programs, not a good time for us to be trying to put a lot of fine points on it. I think as we progress through the year, we'll be in a much better position to do that."
+   ],
+   "roleEn": "President, CEO & Director",
+   "speaker": "William Lansing",
+   "role": "CEO",
+   "fr": [
+    {
+     "text": "Je pense qu'il est probable que nous donnerons une guidance quand nous aurons davantage verrouillé la tarification. Je veux dire, rappelez-vous, notre exercice commence le 1er octobre, et notre tarification intervient le 1er janvier. Et donc nous sommes en ce moment en pleine négociation, en pleine discussion sur différents types d'arrangements avec tout un ensemble de prêteurs et d'émetteurs de prêts différents. Et donc ce n'est pas le bon moment pour nous… surtout compte tenu de tout le fait qu'il y a plusieurs programmes, ce n'est pas le bon moment pour essayer d'entrer dans les détails. Je pense qu'au fil de l'année, nous serons bien mieux placés pour le faire.",
+     "start": 2947.99
+    }
+   ],
+   "enStart": [
+    2510.85
+   ]
+  },
+  {
+   "section": "qa",
+   "speakerEn": "Operator",
+   "en": [
+    "Our next question comes from the line of Ryan Griffin of BMO Capital Markets."
+   ],
+   "speaker": "Opératrice",
+   "role": "",
+   "fr": [
+    {
+     "text": "Notre question suivante vient de Ryan Griffin, de BMO Capital Markets.",
+     "start": 2987.59
+    }
+   ],
+   "enStart": [
+    2552.41
+   ]
+  },
+  {
+   "section": "qa",
+   "speakerEn": "Ryan Griffin",
+   "en": [
+    "Just wondering if we should be thinking about 2027 as a year for 10T adoption in the markets where it's available? And then what are you hearing from the lenders ahead of the January 1 date on the preference versus 10T and VantageScore."
+   ],
+   "roleEn": "BMO Capital Markets Equity Research",
+   "speaker": "Ryan Griffin",
+   "role": "BMO Capital Markets",
+   "fr": [
+    {
+     "text": "Je me demandais simplement si nous devrions considérer 2027 comme l'année de l'adoption du 10T sur les marchés où il est disponible ? Et ensuite, qu'entendez-vous de la part des prêteurs, à l'approche du 1er janvier, sur leur préférence entre le 10T et VantageScore ?",
+     "start": 2994.05
+    }
+   ],
+   "enStart": [
+    2562.35
+   ],
+   "topic": "2027, l'année du 10T ? Préférence des prêteurs face à VantageScore"
+  },
+  {
+   "section": "qa",
+   "speakerEn": "William Lansing",
+   "en": [
+    "I think 10T will -- 10T is the best score available. I mean it is far and away the best score available, and it's making inroads a bit here, a bit there, a bit here, a bit there. And yes, everyone is waiting for GSEs to sign off finally so that the conforming market can use it. But all the trend and momentum is in the direction of 10T adoption, and I think 2027 will be a big year for 10T."
+   ],
+   "roleEn": "President, CEO & Director",
+   "speaker": "William Lansing",
+   "role": "CEO",
+   "fr": [
+    {
+     "text": "Je pense que le 10T va… le 10T est le meilleur score disponible. Je veux dire, c'est de loin le meilleur score disponible, et il fait des percées, un peu ici, un peu là, un peu ici, un peu là. Et oui, tout le monde attend que les GSEs donnent enfin leur feu vert pour que le marché conforming puisse l'utiliser. Mais toute la tendance et toute la dynamique vont dans le sens de l'adoption du 10T, et je pense que 2027 sera une grande année pour le 10T.",
+     "start": 3014.21
+    }
+   ],
+   "enStart": [
+    2577.77
+   ]
+  },
+  {
+   "section": "qa",
+   "speakerEn": "Ryan Griffin",
+   "en": [
+    "And then can you provide any updated thoughts on just score gaming and the unified LLPA grids?"
+   ],
+   "roleEn": "BMO Capital Markets Equity Research",
+   "speaker": "Ryan Griffin",
+   "role": "BMO Capital Markets",
+   "fr": [
+    {
+     "text": "Et ensuite, pouvez-vous nous donner votre avis actualisé sur le score gaming et les grilles LLPA unifiées ?",
+     "start": 3044.72
+    }
+   ],
+   "enStart": [
+    2606.29
+   ]
+  },
+  {
+   "section": "qa",
+   "speakerEn": "William Lansing",
+   "en": [
+    "Yes. A couple of comments. We said before and we continue to believe that gaming is real. I think when you have a 2 score system, one score or the other score is inevitably going to provide -- sometimes it's a tie, but sometimes one score provides a better price than the other score. So the gaming is real. And I think that it would be naive to expect it to go away under today's environment. In terms of a unified LLPA grid, I think if you talk to anyone in the industry, with kind of a data and science background, they would tell you that a unified grid doesn't make a lot of sense. The combination of 2 very different scores in a single grid means that you're going to be underpricing one or the other of them.",
+    "And in this case, Vantage is not being priced properly for risk. It's being underpriced. That's just a reality. I think we all know why that's happening. And I assume also that sooner or later, adjustments will be made because it's not very good for the GSEs. There's a subsidy involved when you underprice risk. So we will see how this all unfolds. But the gaming is real, absolutely."
+   ],
+   "roleEn": "President, CEO & Director",
+   "speaker": "William Lansing",
+   "role": "CEO",
+   "fr": [
+    {
+     "text": "Oui. Quelques commentaires. Nous l'avons dit avant et nous continuons de le penser : le gaming est réel. Je pense que quand vous avez un système à 2 scores, l'un ou l'autre score va inévitablement donner… parfois c'est une égalité, mais parfois un score donne un meilleur prix que l'autre. Donc le gaming est réel. Et je pense qu'il serait naïf de s'attendre à ce qu'il disparaisse dans l'environnement actuel. Concernant une grille LLPA unifiée, je pense que si vous parlez à n'importe qui dans le secteur ayant une formation en données et en science, il vous dira qu'une grille unifiée n'a pas beaucoup de sens. Combiner 2 scores très différents dans une seule grille signifie que vous allez sous-tarifer l'un ou l'autre.",
+     "start": 3053.72
+    },
+    {
+     "text": "Et dans ce cas, Vantage n'est pas tarifé correctement par rapport au risque. Il est sous-tarifé. C'est simplement la réalité. Je pense que nous savons tous pourquoi cela se produit. Et je suppose aussi que, tôt ou tard, des ajustements seront faits, parce que ce n'est pas très bon pour les GSEs. Il y a une subvention en jeu quand on sous-tarife le risque. Nous verrons donc comment tout cela évolue. Mais le gaming est réel, absolument.",
+     "start": 3104.33
+    }
+   ],
+   "enStart": [
+    2613.67,
+    2664.81
+   ]
+  },
+  {
+   "section": "qa",
+   "speakerEn": "Operator",
+   "en": [
+    "Our next question comes from the line of Owen Lau of Clear Street."
+   ],
+   "speaker": "Opératrice",
+   "role": "",
+   "fr": [
+    {
+     "text": "Notre question suivante vient d'Owen Lau, de Clear Street.",
+     "start": 3133.44
+    }
+   ],
+   "enStart": [
+    2697.09
+   ]
+  },
+  {
+   "section": "qa",
+   "speakerEn": "Owen Lau",
+   "en": [
+    "It doesn't look like people are interested in software, but platform ARR grew 72% year-over-year. Could you please talk about the traction there? What are the use cases that resonate with clients driving this strength? It doesn't look like AI has been impacting this business."
+   ],
+   "roleEn": "Clear Street LLC",
+   "speaker": "Owen Lau",
+   "role": "Clear Street",
+   "fr": [
+    {
+     "text": "On dirait que les gens ne s'intéressent pas au logiciel, mais l'ARR platform a augmenté de 72 % sur un an. Pourriez-vous parler de la dynamique de ce côté ? Quels sont les cas d'usage qui parlent aux clients et qui portent cette solidité ? On dirait que l'IA n'a pas eu d'impact sur cette activité.",
+     "start": 3138.8
+    }
+   ],
+   "enStart": [
+    2707.81
+   ],
+   "topic": "Logiciel : d'où vient la hausse de 72 % de l'ARR platform"
+  },
+  {
+   "section": "qa",
+   "speakerEn": "Nikhil Behl",
+   "en": [
+    "Owen. This is Nikhil Behl. I run the software business here at FICO. Thanks for your question. So Owen, we are predominantly on the retail banking side of most financial institutions globally. And we provide intelligent solutions that they can implement across the entire consumer life cycle. And we see fairly good adoption of the FICO Platform across multi segments of that life cycle. So whether it's in originations or in customer management or in fraud protection or in compliance or in credit collections, we go across the life cycle. And we've seen really good adoption for the platform across those use cases, particularly because they are starting to find real benefit in the platform as they expand from their original land use case.",
+    "The more use cases they put on the platform, the better each and every platform use case gets both the initial solutions as well as the incremental solutions that they're adding on top of it. And as our customers start to see the benefit of that strategy and that investment, their uptake from an expand perspective continues to get better. And we're seeing that strategy work, which is why you're actually seeing our numbers perform the way in which they're performing."
+   ],
+   "roleEn": "President of Software",
+   "speaker": "Nikhil Behl",
+   "role": "président de la division Software",
+   "fr": [
+    {
+     "text": "Owen. Ici Nikhil Behl. Je dirige l'activité logicielle chez FICO. Merci pour votre question. Alors, Owen, nous sommes principalement présents du côté de la banque de détail de la plupart des institutions financières dans le monde. Et nous fournissons des solutions intelligentes qu'elles peuvent mettre en œuvre sur tout le cycle de vie du consommateur. Et nous constatons une assez bonne adoption de la FICO Platform sur plusieurs segments de ce cycle de vie. Que ce soit pour les originations, la gestion de la clientèle, la protection contre la fraude, la conformité ou le recouvrement de crédit, nous couvrons tout le cycle de vie. Et nous avons constaté une très bonne adoption de la plateforme sur ces cas d'usage, en particulier parce que les clients commencent à trouver un réel bénéfice dans la plateforme à mesure qu'ils s'étendent au-delà de leur cas d'usage d'entrée initial.",
+     "start": 3160.66
+    },
+    {
+     "text": "Plus ils mettent de cas d'usage sur la plateforme, meilleur devient chaque cas d'usage de la plateforme, à la fois les solutions initiales et les solutions supplémentaires qu'ils ajoutent par-dessus. Et à mesure que nos clients commencent à voir le bénéfice de cette stratégie et de cet investissement, leur adoption, du point de vue de l'extension (expand), continue de s'améliorer. Et nous voyons cette stratégie fonctionner, et c'est pour cela que vous voyez nos chiffres évoluer comme ils le font.",
+     "start": 3221.53
+    }
+   ],
+   "enStart": [
+    2728.27,
+    2782.73
+   ]
+  },
+  {
+   "section": "qa",
+   "speakerEn": "Owen Lau",
+   "en": [
+    "Got it. Just a quick follow up, Will. Does your custom pricing strategy only applies to mortgage or it also includes like card, auto and others?"
+   ],
+   "roleEn": "Clear Street LLC",
+   "speaker": "Owen Lau",
+   "role": "Clear Street",
+   "fr": [
+    {
+     "text": "Compris. Juste une question complémentaire rapide, Will. Votre stratégie de tarification sur mesure s'applique-t-elle uniquement à l'immobilier, ou inclut-elle aussi les cartes, l'auto et le reste ?",
+     "start": 3257.75
+    }
+   ],
+   "enStart": [
+    2813.45
+   ]
+  },
+  {
+   "section": "qa",
+   "speakerEn": "William Lansing",
+   "en": [
+    "It's primarily mortgage, but we are exploring all options. I think that we want to be responsive to the market. We want to be responsive to our customers. And we have, over the years, tried different kinds of things on a kind of a one-off basis with different customers. But I think there's a real value for us in customizing the delivery of our IP to meet the needs of individual customers. And so I think you'll see more and more of that. But the programs we've been talking about today are primarily mortgage."
+   ],
+   "roleEn": "President, CEO & Director",
+   "speaker": "William Lansing",
+   "role": "CEO",
+   "fr": [
+    {
+     "text": "C'est principalement l'immobilier, mais nous explorons toutes les options. Je pense que nous voulons être à l'écoute du marché. Nous voulons être à l'écoute de nos clients. Et nous avons, au fil des années, essayé différentes choses, au cas par cas, avec différents clients. Mais je pense qu'il y a une vraie valeur pour nous à personnaliser la façon dont nous fournissons notre propriété intellectuelle pour répondre aux besoins de chaque client. Et donc je pense que vous en verrez de plus en plus. Mais les programmes dont nous avons parlé aujourd'hui concernent principalement l'immobilier.",
+     "start": 3273.76
+    }
+   ],
+   "enStart": [
+    2825.47
+   ]
+  },
+  {
+   "section": "qa",
+   "speakerEn": "Operator",
+   "en": [
+    "Our next question comes from the line of Patrick O'Shaughnessy of Raymond James."
+   ],
+   "speaker": "Opératrice",
+   "role": "",
+   "fr": [
+    {
+     "text": "Notre question suivante vient de Patrick O'Shaughnessy, de Raymond James.",
+     "start": 3308.97
+    }
+   ],
+   "enStart": [
+    2863.51
+   ]
+  },
+  {
+   "section": "qa",
+   "speakerEn": "Patrick O'Shaughnessy",
+   "en": [
+    "To the best that you can gather, how is your market share trending in non-conforming mortgages, auto and credit card? Has VantageScore's introduction into the conforming mortgage ecosystem impacted other parts of the Scores business?"
+   ],
+   "roleEn": "Raymond James & Associates, Inc., Research Division",
+   "speaker": "Patrick O'Shaughnessy",
+   "role": "Raymond James",
+   "fr": [
+    {
+     "text": "Pour autant que vous puissiez en juger, comment évolue votre part de marché dans les prêts immobiliers non-conforming, l'auto et les cartes de crédit ? L'arrivée de VantageScore dans l'écosystème des prêts immobiliers conforming a-t-elle eu un impact sur d'autres parties de l'activité Scores ?",
+     "start": 3314.88
+    }
+   ],
+   "enStart": [
+    2873.69
+   ],
+   "topic": "Part de marché hors immobilier (auto, cartes, non-conforming)"
+  },
+  {
+   "section": "qa",
+   "speakerEn": "William Lansing",
+   "en": [
+    "We have not seen any, no."
+   ],
+   "roleEn": "President, CEO & Director",
+   "speaker": "William Lansing",
+   "role": "CEO",
+   "fr": [
+    {
+     "text": "Nous n'en avons constaté aucun, non.",
+     "start": 3335.83
+    }
+   ],
+   "enStart": [
+    2886.63
+   ]
+  },
+  {
+   "section": "qa",
+   "speakerEn": "Patrick O'Shaughnessy",
+   "en": [
+    "All right. I appreciate that. And then a question on software and your restructuring efforts there. Do you have like a targeted margin profile that you want to end up with on the other side of the restructuring effort?"
+   ],
+   "roleEn": "Raymond James & Associates, Inc., Research Division",
+   "speaker": "Patrick O'Shaughnessy",
+   "role": "Raymond James",
+   "fr": [
+    {
+     "text": "Très bien. Merci pour cela. Et ensuite, une question sur le logiciel et vos efforts de restructuration de ce côté. Avez-vous un profil de marge cible que vous voulez atteindre à l'issue de cet effort de restructuration ?",
+     "start": 3339.65
+    }
+   ],
+   "enStart": [
+    2891.19
+   ]
+  },
+  {
+   "section": "qa",
+   "speakerEn": "William Lansing",
+   "en": [
+    "We do, although I wouldn't say that we've been public about it. We don't publish a target. I think we've always said and we continue to say that our goal is to balance growth with margin expansion. And right now, we're achieving both. So it's kind of a two-pronged effort where we want to see the revenue growth rates continue at the very high -- they may not stay at the high levels that they're at right now. I mean they're quite high. For a software company, our size to be growing at our speed is fairly remarkable. But as we scale our margins improve, and so we anticipate both improvement in margin and improvement in growth rate."
+   ],
+   "roleEn": "President, CEO & Director",
+   "speaker": "William Lansing",
+   "role": "CEO",
+   "fr": [
+    {
+     "text": "Nous en avons un, même si je ne dirais pas que nous l'avons rendu public. Nous ne publions pas d'objectif. Je pense que nous avons toujours dit, et nous continuons de dire, que notre objectif est d'équilibrer la croissance et l'expansion des marges. Et en ce moment, nous réussissons les deux. C'est donc un effort sur deux fronts : nous voulons que les taux de croissance du chiffre d'affaires restent très élevés… ils ne resteront peut-être pas aux niveaux élevés où ils sont en ce moment. Je veux dire, ils sont assez élevés. Pour une société de logiciels de notre taille, croître à notre rythme est assez remarquable. Mais à mesure que nous grandissons, nos marges s'améliorent, et donc nous anticipons à la fois une amélioration de la marge et une amélioration du taux de croissance.",
+     "start": 3355.71
+    }
+   ],
+   "enStart": [
+    2904.47
+   ]
+  },
+  {
+   "section": "qa",
+   "speakerEn": "Steven Weber",
+   "en": [
+    "Just to add to that, the restructuring was not done with a specific margin target in mind. It really was done to serve the needs of the business and to reallocate resources, like I said before. It's an evolution of that business. And as it evolves, we allocate resources in different ways. It wasn't like we were trying to take a certain amount of expense to hit a certain margin number."
+   ],
+   "roleEn": "Executive VP & CFO",
+   "speaker": "Steven Weber",
+   "role": "CFO",
+   "fr": [
+    {
+     "text": "Juste pour compléter : la restructuration n'a pas été faite avec un objectif de marge précis en tête. Elle a vraiment été faite pour répondre aux besoins de l'activité et pour réallouer les ressources, comme je l'ai dit tout à l'heure. C'est une évolution de cette activité. Et à mesure qu'elle évolue, nous allouons les ressources de différentes façons. Ce n'est pas comme si nous cherchions à supprimer un certain montant de charges pour atteindre un certain chiffre de marge.",
+     "start": 3403.37
+    }
+   ],
+   "enStart": [
+    2948.03
+   ]
+  },
+  {
+   "section": "qa",
+   "speakerEn": "William Lansing",
+   "en": [
+    "I mean I would say we invite you to evaluate us by the Rule of 40."
+   ],
+   "roleEn": "President, CEO & Director",
+   "speaker": "William Lansing",
+   "role": "CEO",
+   "fr": [
+    {
+     "text": "Je veux dire, je dirais que nous vous invitons à nous évaluer selon la Rule of 40.",
+     "start": 3430.88
+    }
+   ],
+   "enStart": [
+    2969.07
+   ]
+  },
+  {
+   "section": "qa",
+   "speakerEn": "Operator",
+   "en": [
+    "Our next question comes from the line of Kyle Peterson of Needham."
+   ],
+   "speaker": "Opératrice",
+   "role": "",
+   "fr": [
+    {
+     "text": "Notre question suivante vient de Kyle Peterson, de Needham.",
+     "start": 3437.43
+    }
+   ],
+   "enStart": [
+    2978.61
+   ]
+  },
+  {
+   "section": "qa",
+   "speakerEn": "Kyle Peterson",
+   "en": [
+    "I wanted to stay on the software theme here. Obviously, in FY '26, the platform ARR, even kind of ex-migration seem to accelerate year-on-year as the year progressed, I guess. Is the 4Q kind of that mid-40s year-on-year growth rate? Is that a reasonable baseline to expect from here given the good things you guys have going on there? Or how should we kind of think of the platform ARR growth ex-migrations?"
+   ],
+   "roleEn": "Needham & Company, LLC, Research Division",
+   "speaker": "Kyle Peterson",
+   "role": "Needham",
+   "fr": [
+    {
+     "text": "Je voulais rester sur le thème du logiciel. Évidemment, au cours de l'exercice 2026, l'ARR platform, même hors migrations, semble avoir accéléré d'une année sur l'autre au fil de l'exercice, je suppose. Est-ce que le taux de croissance d'environ 45 % sur un an du quatrième trimestre… est-ce une base raisonnable à attendre à partir de maintenant, compte tenu des bonnes choses que vous avez en cours ? Ou comment devrions-nous réfléchir à la croissance de l'ARR platform hors migrations ?",
+     "start": 3442.74
+    }
+   ],
+   "enStart": [
+    2990.97
+   ],
+   "topic": "Logiciel : 45 % de croissance de l'ARR, un rythme durable ?"
+  },
+  {
+   "section": "qa",
+   "speakerEn": "Steven Weber",
+   "en": [
+    "Well, we don't -- we're not giving forward-looking views on the platform growth. Frankly, we've got some projections for it, but it's difficult to know exactly what quarters the numbers are going to be. But we do expect very high platform growth rates going forward into '27?"
+   ],
+   "roleEn": "Executive VP & CFO",
+   "speaker": "Steven Weber",
+   "role": "CFO",
+   "fr": [
+    {
+     "text": "Eh bien, nous ne… nous ne donnons pas de perspectives sur la croissance de la plateforme. Franchement, nous avons quelques projections, mais il est difficile de savoir exactement à quels trimestres les chiffres vont tomber. Mais nous nous attendons bien à des taux de croissance de la plateforme très élevés pour 2027.",
+     "start": 3476.89
+    }
+   ],
+   "enStart": [
+    3026.55
+   ]
+  },
+  {
+   "section": "qa",
+   "speakerEn": "Nikhil Behl",
+   "en": [
+    "Our demand continues to remain strong, and our pipeline is strong as well, and we continue to expect to see good product market fit with our platform. And as Will mentioned earlier, we just launched our next-generation FICO Platform, and we expect to see good uptake of that over the coming quarters."
+   ],
+   "roleEn": "President of Software",
+   "speaker": "Nikhil Behl",
+   "role": "président de la division Software",
+   "fr": [
+    {
+     "text": "Notre demande reste forte, et notre pipeline est solide aussi, et nous continuons de nous attendre à une bonne adéquation produit-marché pour notre plateforme. Et comme Will l'a mentionné plus tôt, nous venons de lancer notre nouvelle génération de la FICO Platform, et nous nous attendons à une bonne adoption au cours des prochains trimestres.",
+     "start": 3498.76
+    }
+   ],
+   "enStart": [
+    3041.17
+   ]
+  },
+  {
+   "section": "qa",
+   "speakerEn": "Steven Weber",
+   "en": [
+    "And you see there's the high ACV bookings. Obviously, that leads to higher ARR next year."
+   ],
+   "roleEn": "Executive VP & CFO",
+   "speaker": "Steven Weber",
+   "role": "CFO",
+   "fr": [
+    {
+     "text": "Et vous voyez les ACV bookings élevés. Évidemment, cela mène à un ARR plus élevé l'an prochain.",
+     "start": 3522.52
+    }
+   ],
+   "enStart": [
+    3064.87
+   ]
+  },
+  {
+   "section": "qa",
+   "speakerEn": "Kyle Peterson",
+   "en": [
+    "Okay. Okay. And then I guess switching over to capital deployment. Obviously, you guys made a good dent in the term loan this quarter. Is there a -- whether it's a particular leverage ratio or kind of share price versus interest? Like how are you guys kind of thinking about what you're going to evaluate and when you guys might step back into the market for buybacks?"
+   ],
+   "roleEn": "Needham & Company, LLC, Research Division",
+   "speaker": "Kyle Peterson",
+   "role": "Needham",
+   "fr": [
+    {
+     "text": "D'accord. D'accord. Et ensuite, je suppose, pour passer à l'allocation du capital. Évidemment, vous avez bien entamé le term loan ce trimestre. Y a-t-il un… que ce soit un ratio de levier particulier, ou une comparaison entre le cours de l'action et les intérêts ? Comment réfléchissez-vous à ce que vous allez évaluer, et au moment où vous pourriez revenir sur le marché pour des rachats d'actions ?",
+     "start": 3531.33
+    }
+   ],
+   "enStart": [
+    3071.69
+   ]
+  },
+  {
+   "section": "qa",
+   "speakerEn": "William Lansing",
+   "en": [
+    "We certainly believe that our stock is quite a great value at these levels. We're -- because of the ASR, we're paying down some debt to get to a leverage ratio that's a little bit more comfortable. But you can absolutely expect us to be back in the market and using our free cash flow to retire shares. And we're as committed as we've ever been, and the opportunity, the bargain for our stock is as great as it's ever been. And so you can count on us to be back in. But as we said before, this is a 1- or 2-quarter thing while we bring down our leverage."
+   ],
+   "roleEn": "President, CEO & Director",
+   "speaker": "William Lansing",
+   "role": "CEO",
+   "fr": [
+    {
+     "text": "Nous pensons assurément que notre action représente une très bonne affaire à ces niveaux. Nous… à cause de l'ASR, nous remboursons un peu de dette pour arriver à un ratio de levier un peu plus confortable. Mais vous pouvez absolument vous attendre à ce que nous revenions sur le marché et utilisions notre free cash flow pour racheter des actions. Et nous sommes plus engagés que jamais, et l'opportunité, l'aubaine que représente notre action est plus grande que jamais. Et donc vous pouvez compter sur notre retour. Mais comme nous l'avons dit, c'est une affaire d'un ou deux trimestres, le temps de réduire notre levier.",
+     "start": 3556.24
+    }
+   ],
+   "enStart": [
+    3106.87
+   ]
+  },
+  {
+   "section": "qa",
+   "speakerEn": "Steven Weber",
+   "en": [
+    "Yes. And we were able to bring it down quite a bit just this last quarter. Obviously, we're driving a lot of free cash flow and our EBITDA is growing so that we delever pretty quickly. But we don't put a time line on that, but we're -- in the meantime, we're trying to pay down as much as we can as quickly as we can."
+   ],
+   "roleEn": "Executive VP & CFO",
+   "speaker": "Steven Weber",
+   "role": "CFO",
+   "fr": [
+    {
+     "text": "Oui. Et nous avons pu le réduire assez fortement rien que ce dernier trimestre. Évidemment, nous générons beaucoup de free cash flow et notre EBITDA augmente, donc nous nous désendettons assez vite. Mais nous ne fixons pas de calendrier pour cela, mais nous… en attendant, nous essayons de rembourser autant que possible, aussi vite que possible.",
+     "start": 3596.4
+    }
+   ],
+   "enStart": [
+    3144.07
+   ]
+  },
+  {
+   "section": "qa",
+   "speakerEn": "Operator",
+   "en": [
+    "Our next question comes from the line of Curtis Nagle of BofA."
+   ],
+   "speaker": "Opératrice",
+   "role": "",
+   "fr": [
+    {
+     "text": "Notre question suivante vient de Curtis Nagle, de BofA.",
+     "start": 3620.57
+    }
+   ],
+   "enStart": [
+    3163.25
+   ]
+  },
+  {
+   "section": "qa",
+   "speakerEn": "Curtis Nagle",
+   "en": [
+    "Maybe I'll just start with the mortgage question and ask a question that's been asked maybe a bit differently. But on this transaction or transition, I should say, the bespoke pricing by customer, I suppose philosophically for FICO is the goal to optimize for pricing for volume? How should we think about that?"
+   ],
+   "roleEn": "BofA Securities, Research Division",
+   "speaker": "Curtis Nagle",
+   "role": "BofA Securities",
+   "fr": [
+    {
+     "text": "Je vais peut-être simplement commencer par la question sur l'immobilier, et poser une question qui a déjà été posée, peut-être un peu différemment. Mais sur cette transaction, ou cette transition, devrais-je dire, la tarification sur mesure par client : je suppose que, d'un point de vue philosophique, pour FICO, l'objectif est-il d'optimiser le prix ou le volume ? Comment devrions-nous y réfléchir ?",
+     "start": 3625.92
+    }
+   ],
+   "enStart": [
+    3172.67
+   ],
+   "topic": "Objectif : maximiser le prix ou le volume ?"
+  },
+  {
+   "section": "qa",
+   "speakerEn": "William Lansing",
+   "en": [
+    "Well, I think we take it all into account. Obviously, we want to retain as much volume as we possibly can in the face of competition from Vantage. And the price is something that varies by program and is also designed around that. I mean, we certainly have profit, EPS commitments to our shareholders. And so that also is taken into account. And we try to optimize around both of those factors."
+   ],
+   "roleEn": "President, CEO & Director",
+   "speaker": "William Lansing",
+   "role": "CEO",
+   "fr": [
+    {
+     "text": "Eh bien, je pense que nous prenons tout en compte. Évidemment, nous voulons conserver autant de volume que possible face à la concurrence de Vantage. Et le prix est quelque chose qui varie selon le programme et qui est aussi conçu dans ce sens. Je veux dire, nous avons assurément des engagements de bénéfices, de BPA, envers nos actionnaires. Et donc cela aussi est pris en compte. Et nous essayons d'optimiser autour de ces deux facteurs.",
+     "start": 3654.08
+    }
+   ],
+   "enStart": [
+    3191.73
+   ]
+  },
+  {
+   "section": "qa",
+   "speakerEn": "Curtis Nagle",
+   "en": [
+    "Okay. Fair enough. And then maybe somewhat of a mechanical question, but as we kind of talked about the software growth rates are impressive. What drove, I guess, just such a sharp and material acceleration in both the ARR and maybe more specifically the converted revenue in the fourth quarter?"
+   ],
+   "roleEn": "BofA Securities, Research Division",
+   "speaker": "Curtis Nagle",
+   "role": "BofA Securities",
+   "fr": [
+    {
+     "text": "D'accord. C'est juste. Et ensuite, peut-être une question un peu mécanique, mais comme nous l'avons dit, les taux de croissance du logiciel sont impressionnants. Qu'est-ce qui a entraîné, je suppose, une accélération aussi nette et importante à la fois de l'ARR et, peut-être plus précisément, du chiffre d'affaires converti au quatrième trimestre ?",
+     "start": 3684.28
+    }
+   ],
+   "enStart": [
+    3219.15
+   ]
+  },
+  {
+   "section": "qa",
+   "speakerEn": "Nikhil Behl",
+   "en": [
+    "ACV bookings."
+   ],
+   "roleEn": "President of Software",
+   "speaker": "Nikhil Behl",
+   "role": "président de la division Software",
+   "fr": [
+    {
+     "text": "Les ACV bookings.",
+     "start": 3707.03
+    }
+   ],
+   "enStart": [
+    3239.48
+   ]
+  },
+  {
+   "section": "qa",
+   "speakerEn": "Steven Weber",
+   "en": [
+    "Yes. You've seen the bookings we've had for the last 1.5 years have been grown pretty remarkably. And as those things come on, you start to see an acceleration in ARR. And then we've had the migrations from off the platform onto the platform. And at the same time, there's some point in time revenue that can add to some lumpiness. So if you take a look at all the different pieces, you can kind of parse this apart and see what's actually happening there.",
+    "But we were really focused on the recurring revenue piece and the ARR growth that happens is that recurring revenue piece. So we have a -- maybe Nikhil, you want to jump in on this, but we have a really good sales team that's taken the really good products we brought to market, and there's just a lot of demand in that space."
+   ],
+   "roleEn": "Executive VP & CFO",
+   "speaker": "Steven Weber",
+   "role": "CFO",
+   "fr": [
+    {
+     "text": "Oui. Vous avez vu que les bookings que nous avons enregistrés depuis un an et demi ont augmenté de façon assez remarquable. Et à mesure qu'ils entrent en vigueur, on commence à voir une accélération de l'ARR. Et puis nous avons eu les migrations depuis l'extérieur de la plateforme vers la plateforme. Et en même temps, il y a du point-in-time revenue qui peut ajouter des à-coups. Donc si vous regardez toutes les différentes composantes, vous pouvez en quelque sorte les séparer et voir ce qui se passe réellement.",
+     "start": 3710.2
+    },
+    {
+     "text": "Mais nous étions vraiment concentrés sur la partie revenus récurrents, et la croissance de l'ARR qui se produit, c'est cette partie revenus récurrents. Donc nous avons une… peut-être, Nikhil, que vous voulez intervenir là-dessus, mais nous avons une très bonne équipe commerciale qui a pris les très bons produits que nous avons mis sur le marché, et il y a tout simplement beaucoup de demande dans ce domaine.",
+     "start": 3743.21
+    }
+   ],
+   "enStart": [
+    3242.35,
+    3263.03
+   ]
+  },
+  {
+   "section": "qa",
+   "speakerEn": "Nikhil Behl",
+   "en": [
+    "Yes, I would just go back to what I said earlier. I think we're seeing really good product market fit, and we're seeing our customers find value in the investments that they're making with FICO Platform. In fact, I would say that it's -- we are recognized as the market leader.",
+    "If you look at Gartner, Forrester or IDC, in all 3 of their AI decisioning platform studies, we are the market leader. And our customers are seeing the same thing. And the more they invest in the platform, the more return they get from the investment that they're putting on platform. So we've been seeing this momentum building over the course of the last 6 quarters or so, and we continue to see strong momentum in the future."
+   ],
+   "roleEn": "President of Software",
+   "speaker": "Nikhil Behl",
+   "role": "président de la division Software",
+   "fr": [
+    {
+     "text": "Oui, je reviendrais simplement à ce que j'ai dit plus tôt. Je pense que nous constatons une très bonne adéquation produit-marché, et nous voyons nos clients trouver de la valeur dans les investissements qu'ils font avec la FICO Platform. En fait, je dirais que c'est… nous sommes reconnus comme le leader du marché.",
+     "start": 3769.82
+    },
+    {
+     "text": "Si vous regardez Gartner, Forrester ou IDC, dans leurs 3 études sur les plateformes de décision par IA, nous sommes le leader du marché. Et nos clients constatent la même chose. Et plus ils investissent dans la plateforme, plus ils obtiennent de retour sur l'investissement qu'ils y consacrent. Nous avons donc vu cette dynamique se construire au cours des 6 derniers trimestres environ, et nous continuons de voir une forte dynamique pour l'avenir.",
+     "start": 3792.99
+    }
+   ],
+   "enStart": [
+    3283.49,
+    3295.65
+   ]
+  },
+  {
+   "section": "qa",
+   "speakerEn": "Operator",
+   "en": [
+    "Our next question comes from the line of Scott Wurtzel of Wolfe Research."
+   ],
+   "speaker": "Opératrice",
+   "role": "",
+   "fr": [
+    {
+     "text": "Notre question suivante vient de Scott Wurtzel, de Wolfe Research.",
+     "start": 3823.09
+    }
+   ],
+   "enStart": [
+    3325.65
+   ]
+  },
+  {
+   "section": "qa",
+   "speakerEn": "Scott Wurtzel",
+   "en": [
+    "Just on sort of the outlook here and I understand the uncertainty right now around how pricing is going to shake out. But just wondering if you can kind of help give us any directional guidance on what you're assuming for volumes on the mortgage side for this year?"
+   ],
+   "roleEn": "Wolfe Research, LLC",
+   "speaker": "Scott Wurtzel",
+   "role": "Wolfe Research",
+   "fr": [
+    {
+     "text": "Juste sur les perspectives, et je comprends l'incertitude actuelle sur la façon dont la tarification va se dessiner. Mais je me demandais simplement si vous pouviez nous donner une indication de direction sur ce que vous supposez pour les volumes du côté immobilier cette année ?",
+     "start": 3829.04
+    }
+   ],
+   "enStart": [
+    3337.13
+   ],
+   "topic": "Quels volumes immobiliers prévus dans la guidance ?"
+  },
+  {
+   "section": "qa",
+   "speakerEn": "William Lansing",
+   "en": [
+    "No. We never have given that our kind of internal estimates on that out, and we're not going to start now. I think that you should do your own assessment of where you think industry volumes will be and you can take it from there. But no, we don't share our internal estimates."
+   ],
+   "roleEn": "President, CEO & Director",
+   "speaker": "William Lansing",
+   "role": "CEO",
+   "fr": [
+    {
+     "text": "Non. Nous n'avons jamais communiqué ce genre d'estimations internes, et nous n'allons pas commencer maintenant. Je pense que vous devriez faire votre propre évaluation de ce que seront, selon vous, les volumes du secteur, et partir de là. Mais non, nous ne partageons pas nos estimations internes.",
+     "start": 3847.36
+    }
+   ],
+   "enStart": [
+    3353.39
+   ]
+  },
+  {
+   "section": "qa",
+   "speakerEn": "Operator",
+   "en": [
+    "Our next question comes from the line of Kevin McVeigh of UBS."
+   ],
+   "speaker": "Opératrice",
+   "role": "",
+   "fr": [
+    {
+     "text": "Notre question suivante vient de Kevin McVeigh, d'UBS.",
+     "start": 3866.87
+    }
+   ],
+   "enStart": [
+    3376.77
+   ]
+  },
+  {
+   "section": "qa",
+   "speakerEn": "Kevin McVeigh",
+   "en": [
+    "I guess, Will, you mentioned pricing with clients this year. Has that exercise changed relative to prior years, just given the shift in delivery to DLP as opposed to historically through the credit bureaus. And any puts and takes around those conversations, or is it pretty much the same cadence?"
+   ],
+   "roleEn": "UBS Investment Bank, Research Division",
+   "speaker": "Kevin McVeigh",
+   "role": "UBS",
+   "fr": [
+    {
+     "text": "Je suppose, Will, que vous avez mentionné la tarification avec les clients cette année. Est-ce que cet exercice a changé par rapport aux années précédentes, étant donné le passage de la distribution au DLP (programme de licence directe) plutôt que, historiquement, par les bureaux de crédit ? Et y a-t-il des plus et des moins dans ces discussions, ou est-ce à peu près le même rythme ?",
+     "start": 3872.73
+    }
+   ],
+   "enStart": [
+    3386.23
+   ],
+   "topic": "Négocier en direct (DLP) change-t-il les discussions de prix ?"
+  },
+  {
+   "section": "qa",
+   "speakerEn": "William Lansing",
+   "en": [
+    "Yes. Thank you for the question. It has changed quite a bit. So if you go back in time, say, 5 years ago, we did not have a dedicated score sales force. We didn't have direct relationships with the end customers who are consuming our scores. We essentially went to market, dragged along by the bureaus, along with their credit data sales force. And so they would sell the credit file and the score for us. But we really had no efforts whatsoever of our own.",
+    "And several years ago, we came to a view that, that really didn't make a lot of sense given the importance of the business, given the importance of the IP to those who consume it. We didn't think that we're getting the full benefit of what our IP might do for end customers because it really wasn't being communicated as well as we would have liked.",
+    "And with all due respect to the bureaus, our channel partners, that wasn't their priority. I mean their priority is to sell their data and not to move FICO IP. And so we have very much changed the way we think about this over the last several years. We now have a dedicated software sales force. We now have direct relationships with the major customers for our Scores' IP. We are bringing to them all kinds of innovation that they never saw before. We are constructing much more complex arrangements that include IP across different software, different scores verticals, so beyond mortgage and into other Scores verticals, but also leveraging other IP that we have.",
+    "And so all of that has changed. And I would say for the better, very much for the better. Our customers are grateful for the attention they're getting from us. They're grateful for the opportunity to have input into our R&D and our IP development process. We have Scores Customer Advisory Board now where major players give us very, very direct feedback on the product, and what they'd like to see in future generations of it. So all that has changed dramatically in the last three years. So, yes, I would say -- and I would say the relationships are very strong, and we're happy."
+   ],
+   "roleEn": "President, CEO & Director",
+   "speaker": "William Lansing",
+   "role": "CEO",
+   "fr": [
+    {
+     "text": "Oui. Merci pour la question. Cela a beaucoup changé. Si vous remontez dans le temps, disons il y a 5 ans, nous n'avions pas de force de vente dédiée aux scores. Nous n'avions pas de relations directes avec les clients finaux qui consomment nos scores. Nous allions essentiellement sur le marché tirés par les bureaux de crédit, avec leur force de vente de données de crédit. Et donc ils vendaient le dossier de crédit et le score pour nous. Mais nous ne faisions vraiment aucun effort par nous-mêmes.",
+     "start": 3899.63
+    },
+    {
+     "text": "Et il y a plusieurs années, nous sommes arrivés à la conclusion que cela n'avait pas vraiment de sens, compte tenu de l'importance de l'activité, compte tenu de l'importance de la propriété intellectuelle pour ceux qui la consomment. Nous pensions que nous ne tirions pas tout le bénéfice de ce que notre propriété intellectuelle pouvait apporter aux clients finaux, parce qu'elle n'était pas vraiment communiquée aussi bien que nous l'aurions souhaité.",
+     "start": 3927.89
+    },
+    {
+     "text": "Et avec tout le respect que je dois aux bureaux de crédit, nos partenaires de distribution, ce n'était pas leur priorité. Je veux dire, leur priorité est de vendre leurs données, pas d'écouler la propriété intellectuelle de FICO. Et donc nous avons profondément changé notre façon de voir les choses au cours des dernières années. Nous avons maintenant une force de vente logicielle dédiée. Nous avons maintenant des relations directes avec les principaux clients de notre propriété intellectuelle Scores. Nous leur apportons toutes sortes d'innovations qu'ils n'avaient jamais vues auparavant. Nous construisons des arrangements bien plus complexes, qui incluent de la propriété intellectuelle dans différents logiciels, différents segments de scores, donc au-delà de l'immobilier, dans d'autres segments Scores, mais aussi en tirant parti d'autres propriétés intellectuelles que nous avons.",
+     "start": 3953.55
+    },
+    {
+     "text": "Et donc tout cela a changé. Et je dirais en mieux, vraiment beaucoup mieux. Nos clients sont reconnaissants de l'attention qu'ils reçoivent de notre part. Ils sont reconnaissants d'avoir la possibilité de contribuer à notre R&D et à notre processus de développement de propriété intellectuelle. Nous avons maintenant un comité consultatif clients Scores (Scores Customer Advisory Board), où les grands acteurs nous donnent un retour très, très direct sur le produit, et sur ce qu'ils aimeraient voir dans ses futures générations. Donc tout cela a radicalement changé au cours des trois dernières années. Donc oui, je dirais… et je dirais que les relations sont très solides, et nous sommes satisfaits.",
+     "start": 4003.86
+    }
+   ],
+   "enStart": [
+    3407.47,
+    3435.67,
+    3459.59,
+    3502.81
+   ]
+  },
+  {
+   "section": "qa",
+   "speakerEn": "Kevin McVeigh",
+   "en": [
+    "Got it. And then just with some of the obviously pretty dramatic shift today post election, anything you'd expect on the regulatory side?"
+   ],
+   "roleEn": "UBS Investment Bank, Research Division",
+   "speaker": "Kevin McVeigh",
+   "role": "UBS",
+   "fr": [
+    {
+     "text": "Compris. Et ensuite, avec certains changements évidemment assez spectaculaires aujourd'hui, après l'élection, attendez-vous quelque chose du côté réglementaire ?",
+     "start": 4051.62
+    }
+   ],
+   "enStart": [
+    3541.99
+   ]
+  },
+  {
+   "section": "qa",
+   "speakerEn": "William Lansing",
+   "en": [
+    "I think your speculation is as good as ours. We're not in the business of speculating on political outcomes. Here's what I would say. I would say that the mortgage industry, multitrillion dollar industry, very, very important, relies on quality IP. All the models are built on quality IP, our IP.",
+    "All of the industry would like to see the IP strengthened. And so there's a lot of pent-up demand for 10T. I believe that this year 2027 and in future years, demand for our IP to help lenders make better credit decisions to help investors evaluate the quality of the paper that they're buying. All that is -- it only becomes more pronounced in the future than it is today.",
+    "And the tools that we're providing as a company to the industry, just keep getting sharper. We're getting better and better and better. Some of it is from leveraging incremental data sets, rental data is the example everyone talks about. But obviously, UltraFICO and the cash flow data we have there has a lot of signal in it. And I think that the appetite for what we do for using our IP to help with credit decisions is just getting stronger and stronger and stronger. And again, because of the cost of the IP relative to the value of not making a bad decision in a loan, it's just huge. And so that's how I look at it is I think there's just continued appetite for advances in the technology, and we are at the forefront of that."
+   ],
+   "roleEn": "President, CEO & Director",
+   "speaker": "William Lansing",
+   "role": "CEO",
+   "fr": [
+    {
+     "text": "Je pense que vos spéculations valent les nôtres. Nous ne sommes pas dans le métier de spéculer sur des résultats politiques. Voici ce que je dirais. Je dirais que le secteur du crédit immobilier, un secteur de plusieurs milliers de milliards de dollars, très, très important, repose sur une propriété intellectuelle de qualité. Tous les modèles sont construits sur une propriété intellectuelle de qualité, notre propriété intellectuelle.",
+     "start": 4063.58
+    },
+    {
+     "text": "Tout le secteur aimerait voir cette propriété intellectuelle renforcée. Et donc il y a beaucoup de demande en attente pour le 10T. Je crois que cette année, en 2027, et dans les années à venir, la demande pour notre propriété intellectuelle, pour aider les prêteurs à prendre de meilleures décisions de crédit, pour aider les investisseurs à évaluer la qualité des titres qu'ils achètent… tout cela ne fera que s'accentuer à l'avenir par rapport à aujourd'hui.",
+     "start": 4086.43
+    },
+    {
+     "text": "Et les outils que nous fournissons au secteur, en tant que société, ne cessent de s'affiner. Nous devenons de mieux en mieux. Une partie vient de l'exploitation de jeux de données supplémentaires, les données de loyers sont l'exemple dont tout le monde parle. Mais évidemment, l'UltraFICO et les données de flux de trésorerie que nous y avons contiennent beaucoup de signal. Et je pense que l'appétit pour ce que nous faisons, pour l'utilisation de notre propriété intellectuelle afin d'aider aux décisions de crédit, ne cesse de se renforcer. Et encore une fois, à cause du coût de la propriété intellectuelle par rapport à la valeur d'éviter une mauvaise décision sur un prêt, c'est tout simplement énorme. Et donc c'est comme ça que je vois les choses : je pense qu'il y a un appétit continu pour les progrès de la technologie, et nous sommes à l'avant-garde de ces progrès.",
+     "start": 4113.29
+    }
+   ],
+   "enStart": [
+    3554.45,
+    3575.87,
+    3603.89
+   ]
+  },
+  {
+   "section": "qa",
+   "speakerEn": "Operator",
+   "en": [
+    "Thank you. Ladies and gentlemen, we have reached the end of our time. This does conclude today's conference call. Thank you for participating. You may now disconnect."
+   ],
+   "speaker": "Opératrice",
+   "role": "",
+   "fr": [
+    {
+     "text": "Merci. Mesdames et messieurs, nous sommes arrivés à la fin du temps imparti. Ceci conclut la conférence téléphonique d'aujourd'hui. Merci de votre participation. Vous pouvez maintenant vous déconnecter.",
+     "start": 4166.79
+    }
+   ],
+   "enStart": [
+    3662.05
+   ]
+  }
+ ],
+ "glossary": [
+  {
+   "term": "GAAP",
+   "variants": [
+    "GAAP"
+   ],
+   "definition": "Normes comptables officielles américaines. Les résultats « GAAP » sont ceux publiés selon ces règles."
+  },
+  {
+   "term": "non-GAAP",
+   "variants": [
+    "non-GAAP"
+   ],
+   "definition": "Résultats « ajustés » par l'entreprise : sans les éléments exceptionnels (amende, restructuration, plus-value de cession…)."
+  },
+  {
+   "term": "Free cash flow",
+   "variants": [
+    "free cash flow"
+   ],
+   "definition": "Trésorerie disponible : l'argent qui reste après avoir payé l'activité et les investissements. Il sert à racheter des actions ou rembourser la dette."
+  },
+  {
+   "term": "Guidance",
+   "variants": [
+    "guidance"
+   ],
+   "definition": "Prévisions chiffrées que la direction donne pour l'exercice à venir (chiffre d'affaires, bénéfice par action…)."
+  },
+  {
+   "term": "EBITDA",
+   "variants": [
+    "EBITDA"
+   ],
+   "definition": "Résultat avant intérêts, impôts et amortissements. Sert à mesurer le levier : dette nette ÷ EBITDA."
+  },
+  {
+   "term": "Levier (dette nette sur EBITDA)",
+   "variants": [
+    "levier",
+    "ratio de levier"
+   ],
+   "definition": "Combien d'années d'EBITDA il faudrait pour rembourser la dette nette. FICO est à 3,29 fois."
+  },
+  {
+   "term": "Term loan",
+   "variants": [
+    "term loan",
+    "term loans"
+   ],
+   "definition": "Prêt bancaire à durée fixe, remboursable à tout moment. FICO en a pris un en juin 2026 pour racheter des actions d'un bloc."
+  },
+  {
+   "term": "ASR (rachat d'actions accéléré)",
+   "variants": [
+    "ASR",
+    "rachat d'actions accéléré"
+   ],
+   "definition": "Accelerated share repurchase : la société rachète un gros paquet d'actions d'un seul coup via une banque, au lieu de les racheter petit à petit."
+  },
+  {
+   "term": "Run rate",
+   "variants": [
+    "run rate"
+   ],
+   "definition": "Le rythme actuel de l'activité, ramené sur une année."
+  },
+  {
+   "term": "Déclarations prospectives",
+   "variants": [
+    "déclarations prospectives"
+   ],
+   "definition": "Phrases sur l'avenir (prévisions, projets). La loi américaine oblige à rappeler qu'elles peuvent ne pas se réaliser."
+  },
+  {
+   "term": "Reg G / Regulation G",
+   "variants": [
+    "Reg G",
+    "Regulation G"
+   ],
+   "definition": "Règle de la SEC qui oblige à expliquer le passage des chiffres ajustés (non-GAAP) aux chiffres officiels (GAAP)."
+  },
+  {
+   "term": "SEC",
+   "variants": [
+    "SEC"
+   ],
+   "definition": "Le gendarme de la Bourse américaine."
+  },
+  {
+   "term": "BPA",
+   "variants": [
+    "BPA"
+   ],
+   "definition": "Bénéfice par action (en anglais EPS)."
+  },
+  {
+   "term": "Points de base",
+   "variants": [
+    "points de base"
+   ],
+   "definition": "1 point de base = 0,01 %. 600 points de base = 6 points de pourcentage."
+  },
+  {
+   "term": "Obligations senior",
+   "variants": [
+    "obligations senior"
+   ],
+   "definition": "Dette émise sur les marchés, remboursée en priorité en cas de difficulté."
+  },
+  {
+   "term": "Ligne de crédit renouvelable",
+   "variants": [
+    "ligne de crédit renouvelable"
+   ],
+   "definition": "Réserve d'argent que la banque met à disposition ; la société tire dessus et rembourse quand elle veut."
+  },
+  {
+   "term": "Scores / Software",
+   "variants": [
+    "segment Scores",
+    "segment Software"
+   ],
+   "definition": "Les deux activités de FICO : les scores de crédit (Scores) et les logiciels de décision pour les banques (Software)."
+  },
+  {
+   "term": "B2B / B2C",
+   "variants": [
+    "B2B",
+    "B2C"
+   ],
+   "definition": "B2B : scores vendus aux prêteurs. B2C : scores vendus aux particuliers (site myFICO et partenaires)."
+  },
+  {
+   "term": "Originations",
+   "variants": [
+    "originations",
+    "origination"
+   ],
+   "definition": "L'émission de nouveaux prêts. Les « scores d'origination » sont achetés au moment où le prêt est accordé."
+  },
+  {
+   "term": "Servicing",
+   "variants": [
+    "servicing"
+   ],
+   "definition": "La gestion des prêts déjà accordés (encaissement des mensualités, suivi des impayés)."
+  },
+  {
+   "term": "HELOC",
+   "variants": [
+    "HELOC"
+   ],
+   "definition": "Home equity line of credit : ligne de crédit garantie par la valeur du logement, sans racheter le prêt principal. Le score y est vendu moins cher qu'en premier rang."
+  },
+  {
+   "term": "Prêt de premier rang (first-lien)",
+   "variants": [
+    "premier rang"
+   ],
+   "definition": "Le prêt immobilier principal, remboursé en premier si le logement est saisi. C'est là que FICO vend son score le plus cher."
+  },
+  {
+   "term": "Tri-merge resellers",
+   "variants": [
+    "tri-merge resellers",
+    "revendeurs"
+   ],
+   "definition": "Sociétés qui assemblent pour les prêteurs les rapports des trois bureaux de crédit (Equifax, Experian, TransUnion) avec les scores. FICO leur vend désormais ses scores en direct."
+  },
+  {
+   "term": "Tri-merge / bi-merge",
+   "variants": [
+    "tri-merge",
+    "bi-merge"
+   ],
+   "definition": "Exiger les rapports des trois bureaux de crédit (tri-merge) ou seulement de deux (bi-merge). Le passage à deux réduirait le nombre de scores vendus."
+  },
+  {
+   "term": "Licence directe (DLP)",
+   "variants": [
+    "licence directe",
+    "DLP"
+   ],
+   "definition": "Direct License Program : FICO vend ses scores aux revendeurs sans passer par les bureaux de crédit, qui étaient jusqu'ici ses distributeurs."
+  },
+  {
+   "term": "GSEs",
+   "variants": [
+    "GSEs"
+   ],
+   "definition": "Fannie Mae et Freddie Mac : les deux organismes publics qui rachètent la majorité des prêts immobiliers américains. Ils décident quels scores sont acceptés."
+  },
+  {
+   "term": "FHFA",
+   "variants": [
+    "FHFA"
+   ],
+   "definition": "Le régulateur de Fannie Mae et Freddie Mac."
+  },
+  {
+   "term": "FHA",
+   "variants": [
+    "FHA"
+   ],
+   "definition": "Agence fédérale qui assure des prêts immobiliers, surtout pour les primo-accédants et les ménages modestes."
+  },
+  {
+   "term": "Conforming / non-conforming",
+   "variants": [
+    "non-conforming",
+    "conforming"
+   ],
+   "definition": "Prêts qui respectent les critères de Fannie Mae et Freddie Mac (conforming) ou non (non-conforming, par exemple les très gros prêts)."
+  },
+  {
+   "term": "HMDA",
+   "variants": [
+    "HMDA"
+   ],
+   "definition": "Base de données publique officielle sur tous les prêts immobiliers accordés aux États-Unis."
+  },
+  {
+   "term": "MBS",
+   "variants": [
+    "MBS"
+   ],
+   "definition": "Titres financiers adossés à des paquets de prêts immobiliers, achetés par les investisseurs. Ils sont analysés avec des historiques de scores FICO."
+  },
+  {
+   "term": "Marché secondaire",
+   "variants": [
+    "marché secondaire"
+   ],
+   "definition": "Le marché où les prêts immobiliers sont revendus aux investisseurs (via les MBS)."
+  },
+  {
+   "term": "LLPA",
+   "variants": [
+    "LLPA"
+   ],
+   "definition": "Loan-level price adjustments : majorations de prix fixées par Fannie et Freddie selon le score et le profil du prêt. Une grille « unifiée » applique la même grille à FICO et à VantageScore."
+  },
+  {
+   "term": "Gaming",
+   "variants": [
+    "gaming",
+    "score gaming"
+   ],
+   "definition": "Le prêteur calcule les deux scores (FICO et VantageScore) et garde celui qui donne le meilleur prix. Selon FICO, VantageScore est ainsi sous-tarifé par rapport au risque."
+  },
+  {
+   "term": "VantageScore",
+   "variants": [
+    "VantageScores",
+    "VantageScore",
+    "Vantage",
+    "VS4"
+   ],
+   "definition": "Score concurrent de FICO, détenu par les trois bureaux de crédit. VS4 = VantageScore 4.0, désormais accepté pour les prêts conforming."
+  },
+  {
+   "term": "FICO Score 10T",
+   "variants": [
+    "FICO Score 10T",
+    "FICO 10T",
+    "10T"
+   ],
+   "definition": "La version moderne du score FICO, qui tient compte de l'évolution des dettes dans le temps et des loyers payés. Approuvée en 2022 par la FHFA mais pas encore utilisée par Fannie et Freddie."
+  },
+  {
+   "term": "UltraFICO",
+   "variants": [
+    "UltraFICO Score",
+    "UltraFICO"
+   ],
+   "definition": "Score FICO qui ajoute les données du compte bancaire (flux de trésorerie) avec l'accord du client."
+  },
+  {
+   "term": "FICO Preferred Program",
+   "variants": [
+    "FICO Preferred Program",
+    "Preferred Program",
+    "Preferred"
+   ],
+   "definition": "Offre lancée en octobre : le prêteur qui s'engage n'a pas de hausse de prix en 2027 et reçoit un FICO classique + un FICO 10T pour le prix d'un."
+  },
+  {
+   "term": "Performance model",
+   "variants": [
+    "performance model"
+   ],
+   "definition": "Modèle décrit par FICO l'an dernier : FICO serait payé surtout quand le prêt est réellement accordé, plutôt qu'à chaque calcul du score. Toujours en attente d'approbation par Fannie et Freddie."
+  },
+  {
+   "term": "FICO Score Mortgage Simulator",
+   "variants": [
+    "FICO Score Mortgage Simulator"
+   ],
+   "definition": "Outil qui montre au prêteur comment le score d'un emprunteur pourrait évoluer selon ses actions (rembourser une carte…)."
+  },
+  {
+   "term": "Primo-accédants",
+   "variants": [
+    "primo-accédants"
+   ],
+   "definition": "Personnes qui achètent leur premier logement."
+  },
+  {
+   "term": "ARR",
+   "variants": [
+    "ARR"
+   ],
+   "definition": "Annual recurring revenue : revenus récurrents annuels des abonnements logiciels. Le meilleur indicateur de la santé de l'activité Software."
+  },
+  {
+   "term": "ACV bookings",
+   "variants": [
+    "ACV bookings",
+    "bookings"
+   ],
+   "definition": "Valeur annuelle des nouveaux contrats signés sur la période. Ils deviennent de l'ARR une fois mis en service."
+  },
+  {
+   "term": "NRR (taux de rétention nette)",
+   "variants": [
+    "NRR",
+    "taux de rétention nette"
+   ],
+   "definition": "Croissance des revenus chez les clients existants. 112 % = les clients d'il y a un an paient 12 % de plus aujourd'hui."
+  },
+  {
+   "term": "Platform / non-platform",
+   "variants": [
+    "non-platform",
+    "platform"
+   ],
+   "definition": "Platform : logiciels sur la FICO Platform moderne. Non-platform : anciens logiciels, que les clients quittent pour migrer vers la plateforme."
+  },
+  {
+   "term": "FICO Platform",
+   "variants": [
+    "FICO Platform"
+   ],
+   "definition": "La plateforme logicielle de FICO où les banques construisent leurs décisions (crédit, fraude, recouvrement…) avec les données et l'IA."
+  },
+  {
+   "term": "Migrations",
+   "variants": [
+    "migrations"
+   ],
+   "definition": "Clients qui passent des anciens logiciels FICO à la FICO Platform. Ça gonfle la croissance « platform » sans être un client nouveau."
+  },
+  {
+   "term": "SaaS",
+   "variants": [
+    "SaaS"
+   ],
+   "definition": "Logiciel utilisé en ligne, par abonnement."
+  },
+  {
+   "term": "On-premises",
+   "variants": [
+    "on-premises"
+   ],
+   "definition": "Logiciel installé sur les serveurs du client."
+  },
+  {
+   "term": "Point-in-time revenue",
+   "variants": [
+    "point-in-time revenue"
+   ],
+   "definition": "Revenu enregistré en une seule fois (par exemple une licence), ce qui crée des à-coups d'un trimestre à l'autre."
+  },
+  {
+   "term": "Services professionnels",
+   "variants": [
+    "services professionnels"
+   ],
+   "definition": "Missions de mise en place et de conseil facturées aux clients. FICO veut en faire moins, avec des partenaires et l'IA."
+  },
+  {
+   "term": "Land and expand",
+   "variants": [
+    "land and expand"
+   ],
+   "definition": "Entrer chez un client avec un premier usage (land), puis en ajouter d'autres (expand)."
+  },
+  {
+   "term": "Pipeline",
+   "variants": [
+    "pipeline"
+   ],
+   "definition": "Les contrats en cours de discussion avec des clients potentiels."
+  },
+  {
+   "term": "Rule of 40",
+   "variants": [
+    "Rule of 40"
+   ],
+   "definition": "Règle des logiciels : croissance du chiffre d'affaires + marge doit dépasser 40 %."
+  },
+  {
+   "term": "Agentic",
+   "variants": [
+    "agentic"
+   ],
+   "definition": "Qui concerne les agents d'IA capables d'agir seuls (acheter, payer…), et donc aussi de nouvelles formes de fraude."
+  },
+  {
+   "term": "Authorized push payment fraud",
+   "variants": [
+    "authorized push payment fraud"
+   ],
+   "definition": "Arnaque où la victime est manipulée pour faire elle-même le virement vers le fraudeur."
+  },
+  {
+   "term": "Money mules",
+   "variants": [
+    "money mules"
+   ],
+   "definition": "Personnes qui prêtent leur compte bancaire pour faire transiter l'argent volé."
+  },
+  {
+   "term": "First-party fraud",
+   "variants": [
+    "first-party fraud"
+   ],
+   "definition": "Fraude commise par le client lui-même (emprunter sans intention de rembourser…)."
+  },
+  {
+   "term": "EFS / Enterprise Fraud Solution",
+   "variants": [
+    "Enterprise Fraud Solution",
+    "EFS"
+   ],
+   "definition": "Nouvelle solution anti-fraude de FICO sur sa plateforme, lancée en octobre 2026."
+  },
+  {
+   "term": "FICO Focused Sequence Model",
+   "variants": [
+    "FICO Focused Sequence Model"
+   ],
+   "definition": "Modèle d'IA de FICO qui analyse la suite des transactions d'un client pour repérer la fraude."
+  },
+  {
+   "term": "IDC MarketScape",
+   "variants": [
+    "IDC MarketScape"
+   ],
+   "definition": "Classement de fournisseurs publié par le cabinet d'études IDC."
+  },
+  {
+   "term": "Northstar",
+   "variants": [
+    "Northstar"
+   ],
+   "definition": "Projet interne de FICO cité sans détail dans l'appel."
+  },
+  {
+   "term": "CCS",
+   "variants": [
+    "CCS"
+   ],
+   "definition": "Un produit logiciel de FICO, cité sans détail dans l'appel."
+  },
+  {
+   "term": "High single digits",
+   "variants": [
+    "high single digits"
+   ],
+   "definition": "Un pourcentage à un chiffre, dans le haut : environ 6 à 9 %."
+  }
+ ],
+ "durationEn": 3673.1
+}
