@@ -10,21 +10,26 @@
 <style>
   html, body { margin: 0; min-height: 100%; }
   body { background: hsl(39 46% 93%); color: #2c2c2a; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Inter, Helvetica, Arial, sans-serif; -webkit-font-smoothing: antialiased; }
-  .site-navigation { background: #f5efe4; }
-  html.sticky-nav .site-navigation { position: sticky; top: 0; z-index: 30; padding-bottom: 4px; }
-  .site-navigation .nav { max-width: 860px; margin: 0 auto; padding: 16px 18px 0; }
-  .site-navigation .bar { display: flex; align-items: center; gap: 10px; background: #fff; border-radius: 18px; padding: 8px 12px 8px 10px; }
-  .site-navigation .brand { display: flex; align-items: center; gap: 9px; color: #2c2c2a; font-weight: 800; font-size: 15px; letter-spacing: -.2px; margin-right: auto; }
+  /* Même barre que l'App Trident (pleine largeur, blanche), sans les rubriques. */
+  .site-navigation { background: #fff; border-bottom: 1px solid #ece8df; }
+  html.sticky-nav .site-navigation { position: sticky; top: 0; z-index: 30; }
+  .site-navigation .nav { max-width: 1120px; margin: 0 auto; padding: 10px 24px; }
+  .site-navigation .bar { display: flex; align-items: center; gap: 10px; }
+  .site-navigation .brand { display: flex; align-items: center; gap: 9px; color: #2c2c2a; font-weight: 800; font-size: 15px; letter-spacing: -.2px; margin-right: auto; padding: 2px 6px 2px 2px; }
   .site-navigation .brand img { width: 32px; height: 32px; border-radius: 9px; object-fit: cover; flex: none; }
-  .site-navigation .tag { font-size: 12.5px; font-weight: 650; color: #6b6456; background: #f5efe4; border-radius: 999px; padding: 5px 10px; }
+  .site-navigation .tag { font-size: 13.5px; font-weight: 650; color: #6b6456; white-space: nowrap; }
+  .site-navigation .ask { font-size: 13.5px; font-weight: 700; color: #0f6e56; background: #dff5ec; border-radius: 999px; padding: 8px 14px; text-decoration: none; white-space: nowrap; }
+  .site-navigation .ask:hover { background: #c9eedf; }
+  @media (max-width: 640px) { .site-navigation .nav { padding: 8px 12px; } .site-navigation .tag { display: none; } }
   .loading { text-align: center; color: #9a937f; padding: 80px 16px; }
 </style>
 </head>
 <body>
-<header class="site-navigation"><div class="nav"><div class="bar">
+<header class="site-navigation"><nav class="nav"><div class="bar">
   <span class="brand"><img src="logo-trident.webp" alt="Trident">Méthode Trident</span>
-  <span class="tag">Version test</span>
-</div></div></header>
+  <span class="tag">Fonctionnalité en test</span>
+  <a class="ask" href="https://www.skool.com/methode-trident" target="_blank" rel="noopener noreferrer">Donner mon avis</a>
+</div></nav></header>
 <main id="call"><p class="loading">Chargement du call…</p></main>
 <script type="module" src="app.js"></script>
 </body>
